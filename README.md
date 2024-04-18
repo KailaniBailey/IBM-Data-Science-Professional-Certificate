@@ -3,8 +3,10 @@ The IBM Data Science Professional Certification consists of 10 online courses th
 
 This repository contains documentation and resources used to complete the certification, relevant notes and other code snippets, and proof of certification for each course.
 
-The following tools were used to complete this certification:
+# Tools <br>
+The following tools were used to complete this certification:<br>
 (Python, Jupyter, GitHub, IBM Watson Studio, IBM Cloud Pak)
 
-The following Python libraries were used throughout the certification:
+# Libraries <br>
+The following Python libraries were used throughout the certification:<br>
 (Pandas, Numpy, SciPy, matplotlib, seaborn, plotly, Folium, scikitlearn)
