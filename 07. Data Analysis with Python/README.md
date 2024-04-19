@@ -14,4 +14,5 @@
 - Scipy
 - scikit-learn
 # Course 7 Completion Certificate:
+**Additional Info:** Please click here to verify the certificate.
 *Coming Soon...*
