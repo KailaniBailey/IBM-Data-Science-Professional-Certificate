@@ -1,4 +1,5 @@
 # Languages of Data Science
+- Lesson Overview
 - Introduction to Python
 - Introduction to R Language
 - Introduction to SQL
