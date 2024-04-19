@@ -13,4 +13,5 @@
 - SQL
 - Jupyter Notebooks
 # Course 6 Completion Certificate:
+**Additional Info:** Please click here to verify the certificate.
 *Coming Soon*
