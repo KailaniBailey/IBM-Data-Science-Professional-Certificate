@@ -13,4 +13,5 @@
 - Methodology
 - Data Mining
 # Course 10 Completion Certificate:
+**Additional Info:** Please click here to verify the certificate.
 *Coming Soon...*
