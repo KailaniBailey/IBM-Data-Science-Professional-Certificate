@@ -11,4 +11,4 @@
 ## Summary and Assessments
 - Lesson Summary: Packages, APIs, Data Sets, and Models
 - **Practice Quiz: Libraries, APIs, Data Sets, Models**
-- **Graded Quiz: Libraries, APIs, Data Sets, Models**
+- **Graded Quiz: Libraries, APIs, Data Sets, Models** (80%)
