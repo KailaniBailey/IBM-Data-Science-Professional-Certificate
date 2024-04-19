@@ -2,7 +2,7 @@
 Course 3 of 10 in the IBM Data Science Professional Certificate
 ## Syllabus for Course 3
 - **Week 1:** [From Problem to Approach and From Requirements to Collection](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/03.%20Data%20Science%20Methodology/Week%201:%20From%20Problem%20to%20Approach%20and%20From%20Requirements%20to%20Collection)
-- **Week 2:** From Understanding to Preparation and From Modeling to Evaluation
+- **Week 2:** [From Understanding to Preparation and From Modeling to Evaluation](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/03.%20Data%20Science%20Methodology/Week%202:%20From%20Understanding%20to%20Preparation%20and%20From%20Modeling%20to%20Evaluation)
 - **Week 3:** From Deployment to Feedback and Final Evaluation
 - **Week 4:** Final Project and Assessment
 ## Summary of Tasks
