@@ -18,6 +18,6 @@
 - Hands-On Lab: Working with Different File Formats
 - Cheat Sheet: APIs and Data Collection
 - **Practice Quiz**
-- **Graded Quiz: APIs and Data Collection**
+- **Graded Quiz: APIs and Data Collection** (100%)
 ## Final Exam
-- **Graded Assignment**
+- **Graded Assignment** (84%)
