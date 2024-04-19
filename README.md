@@ -12,8 +12,8 @@ This repository contains documentation and resources used to complete the certif
 - **Course 6:** [Databases and SQL for Data Science with Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
 - **Course 7:** [Data Analysis with Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/07.%20Data%20Analysis%20with%20Python)
 - **Course 8:** [Data Visualization with Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/08.%20Data%20Visualization%20with%20Python)
-- **Course 9:** [Maching Learning with Python](
-- **Course 10:** Applied Data Science Capstone
+- **Course 9:** [Maching Learning with Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/09.%20Machine%20Learning%20with%20Python)
+- **Course 10:** [Applied Data Science Capstone](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone)
 ## Skills for Data Science<br>
 The following skills are developed in this professional certificate program:
 - Import and clean data sets
