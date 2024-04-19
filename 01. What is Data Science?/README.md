@@ -3,7 +3,7 @@ Course 1 of 10 in the IBM Data Science Professional Certificate
 ## Syllabus for Course 1
 - **Week 1:** [Defining Data Science and What Data Scientists Do](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/01.%20What%20is%20Data%20Science%3F/Week%201:%20Defining%20Data%20Science%20and%20What%20Data%20Scientists%20Do/README.md)
 - **Week 2:** [Data Science Topics](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/01.%20What%20is%20Data%20Science%3F/Week%202:%20Data%20Science%20Topics)
-- **Week 3:** Applications and Careers in Data Science
+- **Week 3:** [Applications and Careers in Data Science](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/01.%20What%20is%20Data%20Science%3F/Week%203:%20Applications%20and%20Careers%20in%20Data%20Science/README.md)
 - **Week 4:** Data literacy for Data Science (Optional)
 ## Summary of Tasks
 - Define data science and its importance in today's data-driven world.
