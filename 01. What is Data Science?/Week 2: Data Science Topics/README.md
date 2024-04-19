@@ -9,6 +9,7 @@
 - What is Hadoop?
 - Big Data Processing Tools: Hadoop, HDFS, Hive, and Spark
 - Reading: Data Mining
+- **Graded Quiz: Big Data and Data Mining**
 
 ## Deep Learning and Machine Learning
 - Artificial Intelligence and Data Science
@@ -17,3 +18,4 @@
 - Applications of Machine Learning
 - Reading: Regression
 - Lab: Exploring Data using IBM Cloud Gallery
+- **Graded Quiz: Deep Learning and Machine Learning**
