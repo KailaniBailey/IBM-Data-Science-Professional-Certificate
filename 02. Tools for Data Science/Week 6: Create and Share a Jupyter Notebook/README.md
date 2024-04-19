@@ -3,5 +3,5 @@
 - Final Assignment Instructions: Create and Share Your Jupyter Notebook
 - Hands-On Lab: Create Your Jupyter Notebook
 - Submit Your Work and Grade Your Peers
-##Final Exam
+## Final Exam
 - **Graded Assignment: Final Exam**
