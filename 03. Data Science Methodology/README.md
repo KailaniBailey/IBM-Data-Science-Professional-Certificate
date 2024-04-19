@@ -16,7 +16,7 @@ Course 3 of 10 in the IBM Data Science Professional Certificate
 - Python Programming
 - Numpy
 - Pandas
-## Final Assignment: Methodology for Emails and Peer Reviews
+## Final Assignment: Applying Data Sci Methodology to Emails and Peer Reviews
 - Graded Assignment: 100%
 ## Final Exam
 - Graded Assignment: 90%
