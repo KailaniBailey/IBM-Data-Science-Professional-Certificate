@@ -20,6 +20,8 @@ This repository contains select course content, relevant notes, bits of code, fi
   - Final Assignment: [*Jupyter Notebook and Peer Reviews*](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/02.%20Tools%20for%20Data%20Science/Week%206%3A%20Create%20and%20Share%20a%20Jupyter%20Notebook/Tools-for-Data-Science-Jupyter-Notebook-Final-Assignment.ipynb)
 - ### Course 3: Data Science Methodology
   - Final Assignment: [*Finding the Most Popular Email Providers During a 5-Day Work Week and Peer Reviews*](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/03.%20Data%20Science%20Methodology/Week%204%3A%20Final%20Project%20and%20Assessment/Business%20Problem%20-%20Data%20Methodology%20(1).pdf)
+- ### Course 5: Python Project for Data Science
+  - Final Assignment: *Analyzing Historical Stock/Revenue Data and Building a Dashboard*
 ## Skills for Data Science<br>
 The following skills are developed in this professional certificate program:
 - Import and clean data sets
