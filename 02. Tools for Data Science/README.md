@@ -26,10 +26,10 @@ Course 2 of 10 in the IBM Data Science Professional Certificate
 - Github
 - Rstudio
 - Jupyter Notebooks
-## Final Assignment: Jupyter Notebook
-- **Graded Assignment: 100%**
-## Final Exam
-- **Graded Assignment: 100%**
+## **Final Assignment: Jupyter Notebook**
+- Graded Assignment: 100%
+## **Final Exam**
+- Graded Assignment: 100%
 # Course 2 Completion Certificate:
 **Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/KVTBB24ES8NG) to verify the certificate.<br>
 ![tools for data science](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/b2d8f8bd-80b2-4ce4-8a17-acc062e6371a)
