@@ -7,7 +7,7 @@
 - Lesson Summary
 - **Practice Quiz: From Understanding to Preparation**
 - Glossary
-- **Graded Quiz: From Understanding to Preparation** 
+- **Graded Quiz: From Understanding to Preparation** (100%)
 ## From Modeling to Evaluation
 - Modeling - Concepts
 - Modeling - Case Study
@@ -16,4 +16,4 @@
 - Lesson Summary
 - **Practice Quiz: From Modeling to Evaluation**
 - Glossary
-- **Graded Quiz: From Modeling to Evaluation**
+- **Graded Quiz: From Modeling to Evaluation** (100%)
