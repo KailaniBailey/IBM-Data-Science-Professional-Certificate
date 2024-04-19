@@ -3,7 +3,7 @@
 - Introduction to CRISP-DM
 - Final Assignment Overview
 ## Final Assignment
-- **Graded Assignment with Peer Reviews**
+- **Graded Assignment with Peer Reviews** (100%)
 ## Final Quiz
-- **Graded Assignment** 
+- **Graded Assignment** (90%)
 
