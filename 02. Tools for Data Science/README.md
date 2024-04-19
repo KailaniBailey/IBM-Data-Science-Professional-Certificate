@@ -3,7 +3,7 @@ Course 2 of 10 in the IBM Data Science Professional Certificate
 ## Syllabus for Course 2
 - **Week 1:** [Overview of Data Science Tools](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/02.%20Tools%20for%20Data%20Science/Week%201:%20Overview%20of%20Data%20Science%20Tools)
 - **Week 2:** [Languages of Data Science](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/02.%20Tools%20for%20Data%20Science/Week%202:%20Languages%20of%20Data%20Science)
-- **Week 3:** Packages, APIs, Data Sets, and Models
+- **Week 3:** [Packages, APIs, Data Sets, and Models](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/02.%20Tools%20for%20Data%20Science/Week%203:%20Packages,%20APIs,%20Data%20Sets,%20and%20Models)
 - **Week 4:** Jupyter Notebooks and JupyterLab
 - **Week 5:** RStudio & Github
 - **Week 6:** Create and Share a Jupyter Notebook
