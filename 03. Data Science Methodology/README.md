@@ -20,6 +20,6 @@ Course 3 of 10 in the IBM Data Science Professional Certificate
 **Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/XAUCPC9EBKXY) to verify the certificate.<br>
 ![data sci methods](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/e9e01dbd-0460-4d06-86dd-f95464465cd0)
 # Course 3 Digital Badge:
-Please [click here](https://www.credly.com/earner/earned/badge/2cc76063-54e1-4152-a45c-06515f172f2c) to verify the IBM digital badge.<br>
+Please [click here](https://www.credly.com/badges/2cc76063-54e1-4152-a45c-06515f172f2c/public_url) to verify the IBM digital badge.<br>
 ![Screenshot (49)](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/b0468716-7483-4794-951a-14125c15dae8)
 
