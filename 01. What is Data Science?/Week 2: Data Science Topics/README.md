@@ -1,7 +1,7 @@
 # Data Science Topics
 
 ## Big Data and Data Mining
-- Lesson Overview: Big Data and Data Mining
+- Lesson Overview
 - How Big Data is Driving Digital Transformation
 - Introduction to Cloud
 - Cloud for Data Science
@@ -17,7 +17,7 @@
 - **Graded Quiz: Big Data and Data Mining**
 
 ## Deep Learning and Machine Learning
-- Lesson Overview: Deep Learning and Machine Learning
+- Lesson Overview
 - Artificial Intelligence and Data Science
 - Generative AI and Data Science
 - Neural Networks and Deep Learning
