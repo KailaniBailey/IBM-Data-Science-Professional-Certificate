@@ -18,6 +18,8 @@ This repository contains select course content, relevant notes, bits of code, fi
 ## IBM Skills Network Projects
 - ### Course 2: Tools for Data Science
   - Final Assignment: *Jupyter Notebook and Peer Reviews*
+- ### Course 3: Data Science Methodology
+  - Final Assignment: *Methodology for Emails and Peer Reviews*
 ## Skills for Data Science<br>
 The following skills are developed in this professional certificate program:
 - Import and clean data sets
