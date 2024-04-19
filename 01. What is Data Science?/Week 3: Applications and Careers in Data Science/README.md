@@ -29,7 +29,7 @@
 
 ## Final Assignment
 - A Roadmap to Your Data Science Journey
-- **Final Assignment: Case Study**
+- **Final Assignment: Case Study** (100%)
 - **Graded Quiz: Based on Case Study** (80%)
 - Explore Data Science Job Listings
 
