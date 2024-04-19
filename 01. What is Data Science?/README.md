@@ -17,15 +17,19 @@ Course 1 of 10 in the IBM Data Science Professional Certificate
 - Data Visualization
 - Predictive Modelling
 ## Completed Quiz Grades:
-- Week 1
+- Week 1: Defining Data Science and What Data Scientists Do
   - Defining Data Science, 100%
   - What Data Scientists Do, 100%
-- Week 2
+- Week 2: Data Science Topics
   - Big Data and Data Mining, 100%
   - Deep Learning and Machine Learning, 100%
-- Week 3
+- Week 3: Applications and Careers in Data Science
   - Data Science Application Domains, 100%
   - Careers and Recruiting in Data Science, 100%
+- Week 4: Data Literacy for Data Science (Optional)
+  - None
+## **Final Exam**
+- Graded Assignment: 100%
 # Course 1 Completion Certificate:
 **Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/KVTBB24ES8NG) to verify the IBM certificate.<br>
 ![what is data science](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/5e1f3e15-dbd5-4ff4-9049-2cb3a158d8d8)
