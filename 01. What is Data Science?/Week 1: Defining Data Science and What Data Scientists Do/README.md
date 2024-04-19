@@ -11,7 +11,7 @@
 - Lesson Summary: Defining Data Science
 - **Practice Quiz: Defining Data Science**
 - Glossary: Defining Data Science
-- **Graded Quiz: Defining Data Science** 100%
+- **Graded Quiz: Defining Data Science** (100%)
 
 ## What Do Data Scientists Do?
 - Lesson Overview
@@ -24,5 +24,5 @@
 - Lesson Summary: What Do Data Scientists Do?
 - **Practice Quiz: What Makes Someone a Data Scientist?**
 - Glossary: What Do Data Scientists Do?
-- **Graded Quiz: What Data Scientists Do** 100%
+- **Graded Quiz: What Data Scientists Do** (100%)
 - Summary: What Do Data Scientists Do?
