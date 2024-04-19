@@ -16,7 +16,6 @@ This repository contains select course content, relevant notes, bits of code, fi
 - **Course 9:** [Maching Learning with Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/09.%20Machine%20Learning%20with%20Python)
 - **Course 10:** [Applied Data Science Capstone](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone)
 ## IBM Skills Network Projects
-*Coming Soon...*
 - ### Tools for Data Science
   - Final Assignment: Jupyter Notebook and Peer Reviews
 ## Skills for Data Science<br>
