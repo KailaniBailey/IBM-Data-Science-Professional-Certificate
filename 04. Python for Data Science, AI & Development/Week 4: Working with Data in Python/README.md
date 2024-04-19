@@ -21,5 +21,5 @@
 - Hands-On Lab: Two Dimensional Numpy
 - Reading: Numpy
 - **Practice Quiz**
-- **Graded Quiz: Working with Data in Python**
+- **Graded Quiz: Working with Data in Python** (90%)
 - Cheatsheet: Working with Data in Python
