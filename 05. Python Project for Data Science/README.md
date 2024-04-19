@@ -13,4 +13,5 @@ Course 5 of 10 in the IBM Data Science Professional Certificate
 - K-Means Clustering
 - Data Science Methodology
 # Course 5 Completion Certificate:
+**Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/EHDNULAYY86S) to verify the certificate.
 ![python project for data sci](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/d0993b3a-1bfc-48d1-907e-b76348d87100)
