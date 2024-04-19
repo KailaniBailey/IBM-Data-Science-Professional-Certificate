@@ -7,7 +7,7 @@ Course 2 of 10 in the IBM Data Science Professional Certificate
 - **Week 4:** [Jupyter Notebooks and JupyterLab](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/02.%20Tools%20for%20Data%20Science/Week%204:%20Jupyter%20Notebooks%20and%20JupyterLab)
 - **Week 5:** [RStudio & Github](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/02.%20Tools%20for%20Data%20Science/Week%205:%20RStudio%20&%20Github)
 - **Week 6:** [Create and Share a Jupyter Notebook](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/02.%20Tools%20for%20Data%20Science/Week%206:%20Create%20and%20Share%20a%20Jupyter%20Notebook)
-- **Week 7:** IBM Watson Studio (Optional)
+- **Week 7:** [IBM Watson Studio (Optional)](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/02.%20Tools%20for%20Data%20Science/Week%207:%20IBM%20Watson%20Studio%20(Optional))
 ## Summary of Tasks
 - Describe the Data Scientist's toolkit which includes:
   - Libraries & Packages
