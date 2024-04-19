@@ -10,4 +10,4 @@
 ## Summary and Assessments
 - Lesson Summary: Overview of Data Science Tools
 - **Practice Quiz: Data Science Tools**
-- **Graded Quiz: Data Science Tools**
+- **Graded Quiz: Data Science Tools** (100%)
