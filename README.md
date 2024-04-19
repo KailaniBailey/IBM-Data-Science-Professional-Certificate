@@ -4,16 +4,16 @@ The IBM Data Science Professional Certification consists of 10 online courses th
 # Summary of This Repository
 This repository contains documentation and resources used to complete the certification, relevant notes and other code snippets, and proof of certification for each course.<br>
 ## Courses
-- Course 1: What is Data Science?
-- Course 2: Tools for Data Science
-- Course 3: Data Science Methodology
-- Course 4: Python for Data Science, AI & Development
-- Course 5: Python Project for Data Science
-- Course 6: Databases and SQL for Data Science with Python
-- Course 7: Data Analysis with Python
-- Course 8: Data Visualization with Python
-- Course 9: Maching Learning with Python
-- Course 10: Applied Data Science Capstone
+- **Course 1:** What is Data Science?
+- **Course 2:** Tools for Data Science
+- **Course 3:** Data Science Methodology
+- **Course 4:** Python for Data Science, AI & Development
+- **Course 5:** Python Project for Data Science
+- **Course 6:** Databases and SQL for Data Science with Python
+- **Course 7:** Data Analysis with Python
+- **Course 8:** Data Visualization with Python
+- **Course 9:** Maching Learning with Python
+- **Course 10:** Applied Data Science Capstone
 ## Skills for Data Science<br>
 The following skills are developed in this professional certificate program:
 - Import and clean data sets
@@ -42,3 +42,5 @@ The following Python libraries were used throughout the certification:
 - plotly
 - Folium
 - scikit-learn<br>
+## My Employer-Recognized Certificate from IBM:
+*Coming Soon...*
