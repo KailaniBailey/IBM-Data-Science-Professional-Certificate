@@ -16,7 +16,7 @@ Course 1 of 10 in the IBM Data Science Professional Certificate
 - Python Programming
 - Data Visualization
 - Predictive Modelling
-## **Final Assignment Based on Case Study**
+## **Final Assignment**
 - Graded Assignment: 100%
 ## **Final Exam**
 - Graded Assignment: 100%
