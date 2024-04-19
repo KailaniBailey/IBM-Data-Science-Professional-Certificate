@@ -1,4 +1,5 @@
 # Working with Data in Python
+> This module explains the basics of working with data in Python and begins the path with learning how to read and write files. Uncovers the best Python libraries that will aid in data manipulation and mathematical operations.
 ## Reading & Writing Files with Open
 - Reading Files with Open
 - Reading: Read Files with Open
