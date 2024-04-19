@@ -8,7 +8,7 @@
 - Defining Data Science
 - Advice for New Data Scientists
 
-# What Do Data Scientists Do?
+## What Do Data Scientists Do?
 - A Day in the Life of a Data Scientist
 - Data Science Skills and Big Data
 - Working on Different File Formats
