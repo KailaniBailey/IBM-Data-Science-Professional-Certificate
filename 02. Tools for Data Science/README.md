@@ -1,13 +1,13 @@
 # Tools for Data Science
 Course 2 of 10 in the IBM Data Science Professional Certificate
 ## Syllabus for Course 2
-- Overview of Data Science Tools
-- Languages of Data Science
-- Packages, APIs, Data Sets, and Models
-- Jupyter Notebooks and JupyterLab
-- RStudio & Github
-- Create and Share a Jupyter Notebook
-- IBM Watson Studio (Optional)
+- Week 1: Overview of Data Science Tools
+- Week 2: Languages of Data Science
+- Week 3: Packages, APIs, Data Sets, and Models
+- Week 4: Jupyter Notebooks and JupyterLab
+- Week 5: RStudio & Github
+- Week 6: Create and Share a Jupyter Notebook
+- Week 7: IBM Watson Studio (Optional)
 ## Summary of Tasks
 - Describe the Data Scientist's toolkit which includes:
   - Libraries & Packages
