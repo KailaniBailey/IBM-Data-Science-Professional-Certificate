@@ -21,4 +21,4 @@
 - Glossary
 - **Practice Quiz: RStudio**
 - **Practice Quiz: Github**
-- **Graded Quiz: RStudio & Github**
+- **Graded Quiz: RStudio & Github** (100%)
