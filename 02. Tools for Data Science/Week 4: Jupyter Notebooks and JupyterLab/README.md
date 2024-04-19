@@ -13,4 +13,4 @@
 ## Summary and Assessments
 - Lesson Summary: Jupyter Notebooks and JupyterLab
 - **Practice Quiz: Jupyter Notebooks and JupyterLab**
-- **Graded Quiz: Jupyter Notebooks and JupyterLab**
+- **Graded Quiz: Jupyter Notebooks and JupyterLab** (80%)
