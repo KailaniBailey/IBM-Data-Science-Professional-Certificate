@@ -2,7 +2,7 @@
 
 ## Defining Data Science
 - Lesson Overview: Defining Data Science
-- Video: What is Data Science?
+- What is Data Science?
 - Fundamentals of Data Science
 - The Many Paths to Data Science
 - Data Science: The Sexiest Job in the 21st Century
