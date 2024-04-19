@@ -18,4 +18,5 @@ Course 4 of 10 in the IBM Data Science Professional Certificate
 - Data Visualization
 - matplotlib
 # Course 4 Completion Certificate:
+**Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/VY2VPLU32N3P) to verify the certificate.
 ![python for data sci and dev](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/fc84b975-c679-4fd9-998a-e680a5c15d47)
