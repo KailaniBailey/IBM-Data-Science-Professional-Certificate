@@ -3,7 +3,7 @@
 The [IBM Data Science Professional Certification](https://www.coursera.org/professional-certificates/ibm-data-science) consists of 10 online courses that provide the tools and skills to succeed in data science, including use of open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. Completion of the program awards professional with an employer-recognized certificate from IBM.<br>
 # Summary of This Repository
 This repository contains documentation and resources used to complete the certification, relevant notes and other code snippets, and proof of certification for each course.<br>
-## Courses
+## ✅ Completed Courses and Certificates
 - **Course 1:** [What is Data Science?](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/01.%20What%20is%20Data%20Science%3F)
 - **Course 2:** [Tools for Data Science](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/02.%20Tools%20for%20Data%20Science)
 - **Course 3:** [Data Science Methodology](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/03.%20Data%20Science%20Methodology)
