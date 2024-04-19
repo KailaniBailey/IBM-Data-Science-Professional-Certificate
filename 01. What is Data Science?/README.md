@@ -16,18 +16,6 @@ Course 1 of 10 in the IBM Data Science Professional Certificate
 - Python Programming
 - Data Visualization
 - Predictive Modelling
-## Completed Quiz Grades:
-- Week 1: Defining Data Science and What Data Scientists Do
-  - Defining Data Science, 100%
-  - What Data Scientists Do, 100%
-- Week 2: Data Science Topics
-  - Big Data and Data Mining, 100%
-  - Deep Learning and Machine Learning, 100%
-- Week 3: Applications and Careers in Data Science
-  - Data Science Application Domains, 100%
-  - Careers and Recruiting in Data Science, 100%
-- Week 4: Data Literacy for Data Science (Optional)
-  - None
 ## **Final Exam**
 - Graded Assignment: 100%
 # Course 1 Completion Certificate:
