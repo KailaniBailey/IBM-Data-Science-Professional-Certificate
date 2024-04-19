@@ -4,7 +4,7 @@ The IBM Data Science Professional Certification consists of 10 online courses th
 # Summary of This Repository
 This repository contains documentation and resources used to complete the certification, relevant notes and other code snippets, and proof of certification for each course.<br>
 ## Courses
-- **Course 1:** What is Data Science?
+- **Course 1:** [What is Data Science?](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/01.%20What%20is%20Data%20Science%3F)
 - **Course 2:** Tools for Data Science
 - **Course 3:** Data Science Methodology
 - **Course 4:** Python for Data Science, AI & Development
