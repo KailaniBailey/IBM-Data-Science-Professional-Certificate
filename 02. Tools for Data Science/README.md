@@ -27,7 +27,7 @@ Course 2 of 10 in the IBM Data Science Professional Certificate
 - Rstudio
 - Jupyter Notebooks
 ## **Final Assignment: Jupyter Notebook**
-- Graded Assignment: 100%
+- Graded Assignment: 88%
 ## **Final Exam**
 - Graded Assignment: 100%
 # Course 2 Completion Certificate:
