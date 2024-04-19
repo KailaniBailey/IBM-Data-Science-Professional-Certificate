@@ -27,4 +27,4 @@
 ## Practice Lab
 - Cheatsheet: Python Programming Fundamentals
 - Practice Lab
-- **Graded Quiz: Python Programming Fundamentals**
+- **Graded Quiz: Python Programming Fundamentals** (100%)
