@@ -1,7 +1,7 @@
 # Python Project for Data Science
 Course 5 of 10 in the IBM Data Science Professional Certificate
 ## Syllabus for Course 5
-- **Week 1:** Crowdsourcing Short Squeeze Dashboard
+- **Week 1:** [Crowdsourcing Short Squeeze Dashboard](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/05.%20Python%20Project%20for%20Data%20Science/Week%201:%20Crowdsourcing%20Short%20Squeeze%20Dashboard)
 ## Summary of Tasks
 - Play the role of a Data Scientist / Data Analyst working on a real project.
 - Demonstrate your skills in Python - the language of choice for Data Science and Data Analysis.
