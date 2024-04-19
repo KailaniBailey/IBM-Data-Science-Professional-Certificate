@@ -5,7 +5,7 @@ Course 4 of 10 in the IBM Data Science Professional Certificate
 - **Week 2:** [Python Data Structures](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science,%20AI%20&%20Development/Week%202:%20Python%20Data%20Structures)
 - **Week 3:** [Python Programming Fundamentals](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science,%20AI%20&%20Development/Week%203:%20Python%20Programming%20Fundamentals)
 - **Week 4:** [Working with Data in Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science,%20AI%20&%20Development/Week%204:%20Working%20with%20Data%20in%20Python)
-- **Week 5:** APIs and Data Collection
+- **Week 5:** [APIs and Data Collection](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science,%20AI%20&%20Development/Week%205:%20APIs%20and%20Data%20Collection)
 ## Summary of Tasks
 - Learn Python - the most popular programming language for Data Science and Software Development.
 - Apply Python programming logic Variables, Data Structures, Branching, Loops, Functions, Objects & Classes.
