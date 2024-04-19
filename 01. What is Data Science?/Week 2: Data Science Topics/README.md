@@ -17,10 +17,16 @@
 - **Graded Quiz: Big Data and Data Mining**
 
 ## Deep Learning and Machine Learning
+- Lesson Overview: Deep Learning and Machine Learning
 - Artificial Intelligence and Data Science
 - Generative AI and Data Science
 - Neural Networks and Deep Learning
 - Applications of Machine Learning
 - Reading: Regression
+- **Practice Quiz: Regression**
 - Lab: Exploring Data using IBM Cloud Gallery
+- Lesson Summary: Deep Learning and Machine Learning
+- **Practice Quiz: Deep Learning and Machine Learning**
+- Glossary: Deep Learning and Machine Learning
 - **Graded Quiz: Deep Learning and Machine Learning**
+- Summary: Deep Learning and Machine Learning**
