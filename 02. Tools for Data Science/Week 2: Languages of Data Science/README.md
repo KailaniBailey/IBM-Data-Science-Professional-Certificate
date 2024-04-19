@@ -7,6 +7,6 @@
 ## Summary and Assessments
 - Lesson Summary: Languages of Data Science
 - **Practice Quiz: Languages**
-- **Graded Quiz: Languages**
+- **Graded Quiz: Languages** (100%)
 
 
