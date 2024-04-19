@@ -16,6 +16,10 @@ Course 3 of 10 in the IBM Data Science Professional Certificate
 - Python Programming
 - Numpy
 - Pandas
+## Final Assignment: Submission and Peer Reviews
+- Graded Assignment: 100%
+## Final Exam
+- Graded Assignment: 90%
 # Course 3 Completion Certificate:
 **Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/XAUCPC9EBKXY) to verify the certificate.<br>
 ![data sci methods](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/e9e01dbd-0460-4d06-86dd-f95464465cd0)
