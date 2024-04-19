@@ -13,4 +13,4 @@
 - Hands-On Lab: Sets
 - Cheatsheet: Dictionaries & Sets
 - **Practice Quiz**
-- **Graded Quiz: Python Data Structures**
+- **Graded Quiz: Python Data Structures** (100%)
