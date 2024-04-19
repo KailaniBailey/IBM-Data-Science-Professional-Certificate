@@ -1,5 +1,5 @@
 # Data Science Methodology
-Course 3 of 10 in the IBM Data Science Professional Certificate
+**Course 3 of 10** in the IBM Data Science Professional Certificate
 ## Syllabus for Course 3
 - Week 1: From Problem to Approach and From Requirements to Collection
 - Week 2: From Understanding to Preparation and From Modeling to Evaluation
@@ -16,5 +16,5 @@ Course 3 of 10 in the IBM Data Science Professional Certificate
 - Python Programming
 - Numpy
 - Pandas
-## Course 3 Completion Certificate:
+# Course 3 Completion Certificate:
 ![data sci methods](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/e9e01dbd-0460-4d06-86dd-f95464465cd0)
