@@ -1,7 +1,7 @@
 # Python for Data Science, AI & Development
 Course 4 of 10 in the IBM Data Science Professional Certificate
 ## Syllabus for Course 4
-- **Week 1:** Python Basics
+- **Week 1:** [Python Basics](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/04.%20Python%20for%20Data%20Science,%20AI%20&%20Development/Week%201:%20Python%20Basics)
 - **Week 2:** Python Data Structures
 - **Week 3:** Python Programming Fundamentals
 - **Week 4:** Working with Data in Python
