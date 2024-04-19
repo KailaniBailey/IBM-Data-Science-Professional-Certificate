@@ -14,7 +14,7 @@
 - Lesson Summary: Big Data and Data Mining
 - **Practice Quiz: Big Data and Data Mining**
 - Glossary: Big Data and Data Mining
-- **Graded Quiz: Big Data and Data Mining**
+- **Graded Quiz: Big Data and Data Mining** (100%)
 
 ## Deep Learning and Machine Learning
 - Lesson Overview
@@ -28,5 +28,5 @@
 - Lesson Summary: Deep Learning and Machine Learning
 - **Practice Quiz: Deep Learning and Machine Learning**
 - Glossary: Deep Learning and Machine Learning
-- **Graded Quiz: Deep Learning and Machine Learning**
+- **Graded Quiz: Deep Learning and Machine Learning** (100%)
 - Summary: Deep Learning and Machine Learning
