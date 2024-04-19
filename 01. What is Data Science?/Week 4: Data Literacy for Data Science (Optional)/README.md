@@ -1,14 +1,25 @@
 # Data Literacy for Data Science (Optional)
 
 ## Understanding Data
+- Lesson Overview
 - Data Sources
-- Working on Varied Data Sources and Types
+- Viewpoint: Working on Varied Data Sources and Types
 - Reading: Metadata
+- **Practice Quiz: Metadata**
+- Lesson Summary: Understanding Data
+- Glossary: Understanding Data
+- **Practice Quiz: Understanding Data**
 
 ## Data Literacy
+- Lesson Overview
 - Data Collection and Organization
 - Relational Database Management System
 - NoSQL
 - Data Marts, Data Lakes, ETL, and Data Pipelines
-- Considerations for Choice of Data Repository
+- Viewpoint: Considerations for Choice of Data Repository
 - Data Integration Platforms
+- **Practice Quiz: Data Integration Platforms**
+- Lesson Summary: Welcome to Data Literacy
+- **Practice Quiz: Data Literacy**
+- Glossary: Data Literacy for Data Science
+- Summary: Data Literacy for Data Science
