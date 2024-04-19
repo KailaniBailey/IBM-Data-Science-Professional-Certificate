@@ -1,4 +1,5 @@
 # APIs and Data Collection
+> This module delves into the unique ways to collect data by use of APIs amd webscraping. It further explores data collection by explaining how to read and collect data when dealing with different file formats.
 ## Simple APIs
 - Simple APIs: Part 1
 - Simple APIs: Part 2
