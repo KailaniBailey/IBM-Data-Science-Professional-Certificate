@@ -14,15 +14,15 @@
 - **Graded Quiz: Defining Data Science**
 
 ## What Do Data Scientists Do?
-- (Reading) Lesson Overview: What Do Data Scientists Do?
-- (Video) A Day in the Life of a Data Scientist
-- (Video) Data Science Skills & Big Data
-- (Video) Understanding Different Types of File Formats
-- (Video) Data Science Topics and Algorithms
+- Lesson Overview: What Do Data Scientists Do?
+- A Day in the Life of a Data Scientist
+- Data Science Skills & Big Data
+- Understanding Different Types of File Formats
+- Data Science Topics and Algorithms
 - Discussion Prompt: Introduce Yourself
-- (Assignment) What Makes Someone a Data Scientist?
-- (Video) Lesson Summary: What Do Data Scientists Do?
+- What Makes Someone a Data Scientist?
+- Lesson Summary: What Do Data Scientists Do?
 - **Practice Quiz: What Makes Someone a Data Scientist?**
-- (Assignment) Glossary: What Do Data Scientists Do?
+- Glossary: What Do Data Scientists Do?
 - **Graded Quiz: What Data Scientists Do**
-- (Reading) Summary: What Do Data Scientists Do?
+- Summary: What Do Data Scientists Do?
