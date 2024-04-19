@@ -7,6 +7,7 @@
 - Data Science: The Sexiest Job in the 21st Century
 - Defining Data Science
 - Advice for New Data Scientists
+** Graded Quiz: Defining Data Science Summary**
 
 ## What Do Data Scientists Do?
 - A Day in the Life of a Data Scientist
