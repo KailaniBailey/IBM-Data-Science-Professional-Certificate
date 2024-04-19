@@ -16,6 +16,10 @@ Course 1 of 10 in the IBM Data Science Professional Certificate
 - Python Programming
 - Data Visualization
 - Predictive Modelling
+## Completed Quiz Grades:
+- Week 1
+  - Graded Quiz: Defining Data Science, 100%
+  - Graded Quiz: What Data Scientists Do, 100%
 # Course 1 Completion Certificate:
 **Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/KVTBB24ES8NG) to verify the IBM certificate.<br>
 ![what is data science](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/5e1f3e15-dbd5-4ff4-9049-2cb3a158d8d8)
