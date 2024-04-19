@@ -11,4 +11,4 @@
 - Hands-On Lab: Strings
 - **Practice Quiz**
 - Cheat Sheet: Python Basics
-- **Graded Quiz: Python Basics**
+- **Graded Quiz: Python Basics** (100%)
