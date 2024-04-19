@@ -6,7 +6,7 @@
 - The Many Paths to Data Science
 - Data Science: The Sexiest Job in the 21st Century
 - Defining Data Science
-- Advice for New Data Scientists<br>
+- Advice for New Data Scientists
 - **Graded Quiz: Defining Data Science**
 
 ## What Do Data Scientists Do?
@@ -16,3 +16,4 @@
 - Data Science Topics and Algorithms
 - Discussion Prompt: Introduce Yourself
 - Reading: What Makes Someone a Data Scientist?
+- **Graded Quiz: What Data Scientists Do**
