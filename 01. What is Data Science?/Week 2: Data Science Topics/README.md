@@ -29,4 +29,4 @@
 - **Practice Quiz: Deep Learning and Machine Learning**
 - Glossary: Deep Learning and Machine Learning
 - **Graded Quiz: Deep Learning and Machine Learning**
-- Summary: Deep Learning and Machine Learning**
+- Summary: Deep Learning and Machine Learning
