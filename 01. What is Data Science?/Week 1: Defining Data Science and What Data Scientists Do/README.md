@@ -1,7 +1,7 @@
 # Defining Data Science and What Data Scientists Do
 
 ## Defining Data Science
-- Lesson Overview: Defining Data Science
+- Lesson Overview
 - What is Data Science?
 - Fundamentals of Data Science
 - The Many Paths to Data Science
@@ -14,7 +14,7 @@
 - **Graded Quiz: Defining Data Science**
 
 ## What Do Data Scientists Do?
-- Lesson Overview: What Do Data Scientists Do?
+- Lesson Overview
 - A Day in the Life of a Data Scientist
 - Data Science Skills & Big Data
 - Understanding Different Types of File Formats
