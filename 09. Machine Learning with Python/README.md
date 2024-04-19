@@ -13,4 +13,5 @@
 - Deep Learning
 - Data Mining
 # Course 9 Completion Certificate:
+**Additional Info:** Please click here to verify the certificate.
 *Coming Soon...*
