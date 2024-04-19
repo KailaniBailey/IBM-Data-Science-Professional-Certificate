@@ -17,4 +17,5 @@ Course 3 of 10 in the IBM Data Science Professional Certificate
 - Numpy
 - Pandas
 # Course 3 Completion Certificate:
+**Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/XAUCPC9EBKXY) to verify the certificate.
 ![data sci methods](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/e9e01dbd-0460-4d06-86dd-f95464465cd0)
