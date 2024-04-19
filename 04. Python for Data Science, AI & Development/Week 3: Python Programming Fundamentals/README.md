@@ -1,4 +1,5 @@
 # Python Programming Fundamentals
+> This module discusses Python fundamentals and begins with the concepts of conditions and branching. Learn how to implement loops to iterate over sequences, create functions to perform a specific task, perform exception handling to catch errors, and how classes are needed to create objects.
 ## Conditions and Branching
 - Conditions and Branching
 - Hands-On Lab: Conditions and Branching
