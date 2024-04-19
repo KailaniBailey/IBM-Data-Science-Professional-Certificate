@@ -1,1 +1,11 @@
-# Week 2: Languages of Data Science
+# Languages of Data Science
+- Introduction to Python
+- Introduction to R Language
+- Introduction to SQL
+- Other Languages for Data Science
+## Summary and Assessments
+- Lesson Summary: Languages of Data Science
+- **Practice Quiz: Languages**
+- **Graded Quiz: Languages**
+
+
