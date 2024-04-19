@@ -6,6 +6,7 @@
 - Applications of Data Science
 - How Data Science is Saving Lives
 - Reading: The Final Deliverable
+- **Graded Quiz: Data Science Application Domains**
 
 ## Careers and Recruiting in Data Science
 - How Can Someone Become a Data Scientist?
@@ -14,3 +15,4 @@
 - Importance of Mathematics and Statistics for Data Science
 - The Report Structure
 - Reading: Infograph on Roadmap
+- **Graded Quiz: Careers and Recruiting in Data Science**
