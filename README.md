@@ -17,7 +17,7 @@ This repository contains select course content, relevant notes, bits of code, fi
 - **Course 10:** [Applied Data Science Capstone](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone)
 ## IBM Skills Network Projects
 - ### Course 2: Tools for Data Science
-  - Final Assignment: *Jupyter Notebook and Peer Reviews*
+  - Final Assignment: [*Jupyter Notebook and Peer Reviews*](https://https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/02.%20Tools%20for%20Data%20Science/Week%206%3A%20Create%20and%20Share%20a%20Jupyter%20Notebook/Tools-for-Data-Science-Jupyter-Notebook-Final-Assignment.ipynb)
 - ### Course 3: Data Science Methodology
   - Final Assignment: *Finding the Most Popular Email Providers During a 5-Day Work Week and Peer Reviews*
 ## Skills for Data Science<br>
