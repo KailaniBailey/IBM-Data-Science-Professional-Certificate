@@ -1,10 +1,10 @@
 # Data Science Methodology
-**Course 3 of 10** in the IBM Data Science Professional Certificate
+Course 3 of 10 in the IBM Data Science Professional Certificate
 ## Syllabus for Course 3
-- Week 1: From Problem to Approach and From Requirements to Collection
-- Week 2: From Understanding to Preparation and From Modeling to Evaluation
-- Week 3: From Deployment to Feedback and Final Evaluation
-- Week 4: Final Project and Assessment
+- **Week 1:** From Problem to Approach and From Requirements to Collection
+- **Week 2:** From Understanding to Preparation and From Modeling to Evaluation
+- **Week 3:** From Deployment to Feedback and Final Evaluation
+- **Week 4:** Final Project and Assessment
 ## Summary of Tasks
 - Describe what a data science methodology is and why data scientists need a methodology.
 - Apply the six stages in the Cross-Industry Process for Data Mining (CRISP-DM) methodology to analyze a case study.
