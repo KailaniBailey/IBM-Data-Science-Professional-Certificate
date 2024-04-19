@@ -18,8 +18,8 @@ Course 1 of 10 in the IBM Data Science Professional Certificate
 - Predictive Modelling
 ## Completed Quiz Grades:
 - Week 1
-  - Defining Data Science, Quiz Grade: 100%
-  - What Data Scientists Do, Quiz Grade: 100%
+  - Defining Data Science, 100% - Passed!
+  - What Data Scientists Do, 100% - Passed!
 - Week 2
   - Big Data and Data Mining, 100%
 # Course 1 Completion Certificate:
