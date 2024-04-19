@@ -17,6 +17,8 @@ This repository contains select course content, relevant notes, bits of code, fi
 - **Course 10:** [Applied Data Science Capstone](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone)
 ## IBM Skills Network Projects
 *Coming Soon...*
+- ## *Tools for Data Science*
+  - Final Assignment: Jupyter Notebook and Peer Reviews
 ## Skills for Data Science<br>
 The following skills are developed in this professional certificate program:
 - Import and clean data sets
