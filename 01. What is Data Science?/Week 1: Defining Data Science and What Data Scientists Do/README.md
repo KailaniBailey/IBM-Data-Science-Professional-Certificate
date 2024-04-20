@@ -6,12 +6,12 @@
 - Fundamentals of Data Science
 - The Many Paths to Data Science
 - Data Science: The Sexiest Job in the 21st Century
-- **Practice Quiz: The Sexiest Job in the 21st Century** (100%)
+- **Practice Quiz:** The Sexiest Job in the 21st Century (100%)
 - Advice for New Data Scientists
 - Lesson Summary: Defining Data Science
-- **Practice Quiz: Defining Data Science** (100%)
+- **Practice Quiz:** Defining Data Science (100%)
 - Glossary: Defining Data Science
-- **Graded Quiz: Defining Data Science** (100%)
+- **Graded Quiz:** Defining Data Science (100%)
 
 ## What Do Data Scientists Do?
 - Lesson Overview
@@ -22,7 +22,7 @@
 - Discussion Prompt: Introduce Yourself
 - What Makes Someone a Data Scientist?
 - Lesson Summary: What Do Data Scientists Do?
-- **Practice Quiz: What Makes Someone a Data Scientist?** (100%)
+- **Practice Quiz:** What Makes Someone a Data Scientist? (100%)
 - Glossary: What Do Data Scientists Do?
-- **Graded Quiz: What Data Scientists Do** (100%)
+- **Graded Quiz:** What Data Scientists Do (100%)
 - Summary: What Do Data Scientists Do?
