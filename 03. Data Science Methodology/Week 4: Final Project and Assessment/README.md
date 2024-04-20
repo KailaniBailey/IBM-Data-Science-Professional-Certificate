@@ -1,4 +1,5 @@
 # Final Project and Assessment
+> Learn how CRISP-DM data science methodology compares to John Rollins’ foundational data science methodology. Apply what was learned to complete a peer-graded assignment using CRISP-DM data science methodology to solve a business problem of choice. Take on both the client and data scientist role and describe how someone would apply CRISP-DM data science methodology to solve the business problem. Then, take on the role of a data scientist and apply knowledge of CRISP-DM data methodology stages to describe how someone would solve the business problem. Grade the assignment of one peer who is enrolled in this session.
 ## Final Project
 - Introduction to CRISP-DM
 - Final Assignment Overview
@@ -6,4 +7,3 @@
 - **Graded Assignment** (100%)
 ## Final Quiz
 - **Graded Assignment** (90%)
-
