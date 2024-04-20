@@ -5,7 +5,7 @@
 - **Practice Quiz** (100%)
 ## Expressions and Variables
 - Expressions and Variables
-- Hands-On Lab: Your First Program, Types, Expressions, and Variables
+- Hands-On Lab: [Your First Program, Types, Expressions, and Variables](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/04.%20Python%20for%20Data%20Science,%20AI%20&%20Development/WriteFirstPythonCode.py)
 - **Practice Quiz** (100%)
 ## String Operations
 - String Operations
