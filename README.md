@@ -32,6 +32,7 @@ This repository contains select course content, relevant notes, bits of code, fi
         - Getting Started with Jupyter Notebooks: ([Updated for Use in this Lab](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/02.%20Tools%20for%20Data%20Science/Week%204%3A%20Jupyter%20Notebooks%20and%20JupyterLab/My_Notebook.ipynb))
     - Week 5: Hands-On Lab: [Getting Started with Github](https://github.com/KailaniBailey/Getting-Started-with-Github)
     - Week 5: Hands-On Lab: [Branching and Merging (Web UI)](https://github.com/KailaniBailey/Getting-Started-with-Github/)
+    - Week 6: Hands-On Lab: [Creating Your Jupyter Notebook](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/02.%20Tools%20for%20Data%20Science/Week%206%3A%20Create%20and%20Share%20a%20Jupyter%20Notebook/Tools-for-Data-Science-Jupyter-Notebook-Final-Assignment.ipynb)
 ### Skills for Data Science<br>
 The following skills are developed in this professional certificate program:
 - Import and clean data sets
