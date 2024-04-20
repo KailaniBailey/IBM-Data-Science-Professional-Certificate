@@ -11,7 +11,7 @@
 ## String Operations
 - String Operations
 - Hands-On Lab: Strings
-    - Strings ([Notes in Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Week%201%3A%20Python%20Basics/strings.py)
+    - Strings ([Notes in Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Week%201%3A%20Python%20Basics/strings.py))
 - **Practice Quiz** (100%)
 - Cheat Sheet: Python Basics
 - **Graded Quiz:** Python Basics (100%)
