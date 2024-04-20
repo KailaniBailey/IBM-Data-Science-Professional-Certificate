@@ -1,4 +1,6 @@
 # Jupyter Notebooks and JupyterLab
+> Introduces the Jupyter Notebook and Jupyter Lab. Learn how to work with different kernels in a Notebook session and about the basic Jupyter architecture. Identify the tools in an Anaconda Jupyter environment. Gives an overview of cloud based Jupyter environments and their data science features.
+## Jupyter Notebooks and JupyterLab
 - Introduction to Jupyter Notebooks
 - Getting Started with Jupyter
 - Hands-on Lab: Getting Started with Jupyter Notebooks
