@@ -6,15 +6,15 @@
 - Data Preparation - Case Study
 - Hands-On Lab: From Understanding to Preparation
 - Lesson Summary
-- **Practice Quiz: From Understanding to Preparation**
+- **Practice Quiz:** From Understanding to Preparation (100%)
 - Glossary
-- **Graded Quiz: From Understanding to Preparation** (100%)
+- **Graded Quiz:** From Understanding to Preparation (100%)
 ## From Modeling to Evaluation
 - Modeling - Concepts
 - Modeling - Case Study
 - Evaluation
 - Hands-On Lab: From Modeling to Evaluation
 - Lesson Summary
-- **Practice Quiz: From Modeling to Evaluation**
+- **Practice Quiz:** From Modeling to Evaluation (100%)
 - Glossary
-- **Graded Quiz: From Modeling to Evaluation** (100%)
+- **Graded Quiz:** From Modeling to Evaluation (100%)
