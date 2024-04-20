@@ -9,7 +9,7 @@
 - Lesson Summary
 - **Practice Quiz:** From Problem to Approach (100%)
 - Glossary
-- **Graded Quiz: From Problem to Approach** (100%)
+- **Graded Quiz:** From Problem to Approach (100%)
 ## From Requirements to Collection
 - Data Requirements
 - Data Collection
@@ -17,4 +17,4 @@
 - Lesson Summary
 - **Practice Quiz:** From Requirements to Collection (100%)
 - Glossary
-- **Graded Quiz: From Requirements to Collection** (100%)
+- **Graded Quiz:** From Requirements to Collection (100%)
