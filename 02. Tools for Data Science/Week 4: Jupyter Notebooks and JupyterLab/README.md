@@ -5,7 +5,7 @@
 - Getting Started with Jupyter
 - Hands-on Lab: [Getting Started with Jupyter Notebooks](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/02.%20Tools%20for%20Data%20Science/Week%204%3A%20Jupyter%20Notebooks%20and%20JupyterLab/Getting_Started_with_JupyterNotebook.ipynb)
 - Jupyter Kernels
-- Hands-on Lab: Using Markdown in Jupyter Notebooks
+- Hands-on Lab: [Using Markdown in Jupyter Notebooks](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/02.%20Tools%20for%20Data%20Science/Week%204%3A%20Jupyter%20Notebooks%20and%20JupyterLab/Using_markdowns%20(1).ipynb)
 - Jupyter Architecture
 - Hands-on Lab: Working with Files in Jupyter Notebooks
 - Additional Anaconda Jupyter Environments
