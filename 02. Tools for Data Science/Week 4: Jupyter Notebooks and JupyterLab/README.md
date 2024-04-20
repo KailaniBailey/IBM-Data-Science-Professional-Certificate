@@ -14,5 +14,5 @@
 - Jupyter Notebooks on the Internet
 ## Summary and Assessments
 - Lesson Summary: Jupyter Notebooks and JupyterLab
-- **Practice Quiz: Jupyter Notebooks and JupyterLab**
-- **Graded Quiz: Jupyter Notebooks and JupyterLab** (80%)
+- **Practice Quiz:** Jupyter Notebooks and JupyterLab (100%)
+- **Graded Quiz:** Jupyter Notebooks and JupyterLab (80%)
