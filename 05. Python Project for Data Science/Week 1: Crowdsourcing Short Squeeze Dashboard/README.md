@@ -20,4 +20,4 @@
 - Optional: Hands-On Lab: Add Notebook to Watson Studio
 - Optional: Hands-On Lab: Analyzing Historical Stock/Revenue Data and Building a Dashboard
 - Optional: Hands-On Lab: Share Your Notebook from Watson Studio
-- **Peer Graded Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard** (100%)
+- **Peer-Graded Assignment: [Extracting and Visualizing Stock Data](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Week%201%3A%20Crowdsourcing%20Short%20Squeeze%20Dashboard/Extracting-and-Visualizing-Stock-Data.ipynb)** (100%)
