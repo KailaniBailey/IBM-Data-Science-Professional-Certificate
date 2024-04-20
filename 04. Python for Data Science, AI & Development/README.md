@@ -18,7 +18,7 @@ Course 4 of 10 in the IBM Data Science Professional Certificate
 - Data Visualization
 - matplotlib
 ## Final Exam
-- **Graded Assignment:** 84%
+- Graded Assignment: 84%
 # Course 4 Completion Certificate:
 **Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/VY2VPLU32N3P) to verify the certificate.<br>
 ![python for data sci and dev](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/fc84b975-c679-4fd9-998a-e680a5c15d47)
