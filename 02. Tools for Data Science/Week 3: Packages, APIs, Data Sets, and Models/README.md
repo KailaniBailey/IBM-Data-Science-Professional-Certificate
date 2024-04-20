@@ -11,5 +11,5 @@
 - Getting Started with the Model Asset eXchange and the Data Asset eXchange
 ## Summary and Assessments
 - Lesson Summary: Packages, APIs, Data Sets, and Models
-- **Practice Quiz: Libraries, APIs, Data Sets, Models**
-- **Graded Quiz: Libraries, APIs, Data Sets, Models** (80%)
+- **Practice Quiz:** Libraries, APIs, Data Sets, Models (100%)
+- **Graded Quiz:** Libraries, APIs, Data Sets, Models (80%)
