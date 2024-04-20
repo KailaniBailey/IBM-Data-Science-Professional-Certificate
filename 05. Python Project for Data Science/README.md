@@ -15,7 +15,7 @@ Course 5 of 10 in the IBM Data Science Professional Certificate
 ## [Final Assignment](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Week%201%3A%20Crowdsourcing%20Short%20Squeeze%20Dashboard/Extracting-and-Visualizing-Stock-Data.ipynb)
 - Final Assignment Graphs:
     - [Tesla](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Week%201%3A%20Crowdsourcing%20Short%20Squeeze%20Dashboard/GRAPHS-Tesla-Extracting-and-Visualizing-Stock-Data.pdf)
-    - GameStop
+    - [GameStop](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Week%201%3A%20Crowdsourcing%20Short%20Squeeze%20Dashboard/GRAPHS-GameStop-Extracting-and-Visualizing-Stock-Data.pdf)
 - Peer-Graded Assignment (100%)
 # Course 5 Completion Certificate:
 **Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/EHDNULAYY86S) to verify the certificate.<br>
