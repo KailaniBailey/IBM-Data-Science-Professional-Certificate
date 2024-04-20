@@ -64,3 +64,50 @@ str(1) # Result is '1'
 
 # Convert float into a string
 str(1.2) # Result is '1.2'
+
+# A BOOLEAN (BOOL) type can be either True or False
+type(True) # Result is BOOL or Boolean
+type(False) # Result is BOOL or Boolean
+
+# Convert True to an integer
+int(True) # Result is 1
+# Convert False to an integer
+int(False) # Result is 0
+
+bool(1) # Result is True
+bool(0) # Result is False
+float(True) # Result is 1.0
+
+type(6/2) # Result is float (one slash); 3.0
+type(6//2) # Result is integer (double slash); 3
+
+# Addition operation expression
+43 + 60 + 16 + 41 # Result is 160
+
+# Subtraction operation expression
+50 - 60 # Result is a negative number; -10
+
+# Multiplication operation expression
+5 * 5 # Result is 25
+
+# Division operation expression with forward slash
+25 / 5 # Result is 5.0
+
+# Division operation expression with double forward slash (rounds the integer down)
+25 // 5 # Result is 5
+
+# Mathematical expression where Python follows traditional processes in mathematics
+30 + 2 * 60 # Python will perform the multiplication first as in PEMDAS; 150
+(30 + 2) * 60 # Parenthesis are eliminated first as in PEMDAS; Result is 1920
+
+# Store value into a variable 
+x = 43 + 60 + 16 + 41
+x # Placing x on the last line will print the value for x; Result is 160
+
+# Can overwrite the value of a variable with a new value
+y = x / 60
+y
+x = x / 60
+x
+
+# DONE!!!
