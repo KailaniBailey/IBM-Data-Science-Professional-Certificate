@@ -1,5 +1,5 @@
 # Data Science Topics
-
+> Gain insight into the impact of big data on various aspects of society, from business operations to sports, and develop an understanding of key attributes and challenges associated with big data. Learn about the big data fundamentals, how data scientists use the cloud to handle big data, and the data mining process. Delve into machine learning and deep learning and the relationship of artificial intelligence to data science.
 ## Big Data and Data Mining
 - Lesson Overview
 - How Big Data is Driving Digital Transformation
