@@ -26,7 +26,7 @@ This repository contains select course content, relevant notes, bits of code, fi
       - Graphs for GameStop: [*Extracting and Visualizing Stock Data*](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Week%201%3A%20Crowdsourcing%20Short%20Squeeze%20Dashboard/GRAPHS-GameStop-Extracting-and-Visualizing-Stock-Data.pdf)
 ## IBM Skills Network: My Completed Lab Projects
 *Coming Soon...*
-## Skills for Data Science<br>
+### Skills for Data Science<br>
 The following skills are developed in this professional certificate program:
 - Import and clean data sets
 - Analyze and visualize data
@@ -37,14 +37,14 @@ The following skills are developed in this professional certificate program:
   - SQL
   - Data Mining
   - Jupyter Notebooks
-## Tools for Data Science<br>
+### Tools for Data Science<br>
 The following tools were used to complete this certification:
 - Python
 - Jupyter Notebook
 - GitHub
 - IBM Watson Studio
 - IBM Cloud Pak<br>
-## Python Libraries for Data Science<br>
+### Python Libraries for Data Science<br>
 The following Python libraries were used throughout the certification:
 - Pandas
 - Numpy
@@ -54,5 +54,5 @@ The following Python libraries were used throughout the certification:
 - plotly
 - Folium
 - scikit-learn<br>
-## My Employer-Recognized Certificate from IBM:
+# My Employer-Recognized Certificate from IBM:
 *Coming Soon...*
