@@ -35,6 +35,7 @@ This repository contains select course content, relevant notes, bits of code, fi
     - Week 6: Hands-On Lab: [Creating Your Jupyter Notebook](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/02.%20Tools%20for%20Data%20Science/Week%206%3A%20Create%20and%20Share%20a%20Jupyter%20Notebook/Tools-for-Data-Science-Jupyter-Notebook-Final-Assignment.ipynb)
 - ### Course 3: Data Science Methodology
     - Week 2: Hands-On Lab: [From Understanding to Preparation](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/03.%20Data%20Science%20Methodology/Week%202%3A%20From%20Understanding%20to%20Preparation%20and%20From%20Modeling%20to%20Evaluation/DS0103EN-Exercise-From-Understandin.ipynb)
+    - Week 2: Hands-On Lab: [From Modeling to Evaluation](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/03.%20Data%20Science%20Methodology/Week%202%3A%20From%20Understanding%20to%20Preparation%20and%20From%20Modeling%20to%20Evaluation/DS0103EN-Exercise-From-Modeling-to-Evaluation.ipynb)
 ### Skills for Data Science<br>
 The following skills are developed in this professional certificate program:
 - Import and clean data sets
