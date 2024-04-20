@@ -1,4 +1,5 @@
 # Packages, APIs, Data Sets, and Models
+> Learn about the various libraries in data science. Understand an API in relation to REST request and response. Explore open data sets on the Data Asset eXchange. Learn how to use a machine learning model to solve a problem and navigate the Model Asset eXchange.
 ## Libraries, APIs, Data Sets, and Models
 - Libraries for Data Science
 - Application Programming Interfaces (APIs)
