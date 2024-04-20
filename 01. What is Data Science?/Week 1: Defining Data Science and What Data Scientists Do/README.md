@@ -1,5 +1,5 @@
 # Defining Data Science and What Data Scientists Do
-
+> Delve into some fundamentals of Data Science. Listen to how other professionals in the field define what data science is to them and the paths they took to consider data science as a career for themselves. Explore different roles data scientists fulfill, how data analysis is used in data science, and how data scientists follow certain processes to answer questions with that data. Then the focus shifts to the daily activities of data scientists. This encompasses learning about various real-world data science problems that professionals solve, the skills and qualities needed to be a successful data scientist, and opinions on how “big data” relates to those skills. Learn a little about various data formats data scientists work with and algorithms used in the field to process data.
 ## Defining Data Science
 - Lesson Overview
 - What is Data Science?
