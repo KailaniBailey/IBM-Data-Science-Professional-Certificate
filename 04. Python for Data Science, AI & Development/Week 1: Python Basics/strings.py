@@ -49,7 +49,7 @@ name[8:11]
 # Result is "Jack"
 
 # Can skip every other index by using STRIDE; For example 2 selects every 2 instances
-Name[::2]
+name[::2]
 # Result is "McalJcsn"
 
 # Can import SLICING with the STRIDE
