@@ -20,4 +20,4 @@
 - Optional: Hands-On Lab: Add Notebook to Watson Studio
 - Optional: Hands-On Lab: Analyzing Historical Stock/Revenue Data and Building a Dashboard
 - Optional: Hands-On Lab: Share Your Notebook from Watson Studio
-- Analyzing Historical Stock/Revenue Data and Building a Dashboard
+- **Peer Graded Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard** (100%)
