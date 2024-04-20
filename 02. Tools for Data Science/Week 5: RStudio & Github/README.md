@@ -13,7 +13,7 @@
 - Introduction to Github
 - Github Repositories
 - Github - Getting Started
-- Hands-On Lab: Getting Started with Github
+- Hands-On Lab: [Getting Started with Github](https://github.com/KailaniBailey/Getting-Started-with-Github)
 - Github: Working with Branches
 - Hands-On Lab: Branching and Merging (Web UI)
 - Optional: Getting Started with Branches Using Git Commands
