@@ -15,7 +15,7 @@ This repository contains select course content, relevant notes, bits of code, fi
 - **Course 8:** [Data Visualization with Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/08.%20Data%20Visualization%20with%20Python)
 - **Course 9:** [Maching Learning with Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/09.%20Machine%20Learning%20with%20Python)
 - **Course 10:** [Applied Data Science Capstone](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone)
-## IBM Skills Network Final Projects
+## IBM Skills Network: My Completed Final Projects
 - ### Course 2: Tools for Data Science
   - Final Assignment: [*Jupyter Notebook and Peer Reviews*](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/02.%20Tools%20for%20Data%20Science/Week%206%3A%20Create%20and%20Share%20a%20Jupyter%20Notebook/Tools-for-Data-Science-Jupyter-Notebook-Final-Assignment.ipynb)
 - ### Course 3: Data Science Methodology
@@ -24,7 +24,7 @@ This repository contains select course content, relevant notes, bits of code, fi
   - Final Assignment: [*Extracting and Visualizing Stock Data*](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Week%201%3A%20Crowdsourcing%20Short%20Squeeze%20Dashboard/Extracting-and-Visualizing-Stock-Data.ipynb)
       - Graphs for Tesla: [*Extracting and Visualizing Stock Data*](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Week%201%3A%20Crowdsourcing%20Short%20Squeeze%20Dashboard/GRAPHS-Tesla-Extracting-and-Visualizing-Stock-Data.pdf)
       - Graphs for GameStop: [*Extracting and Visualizing Stock Data*](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Week%201%3A%20Crowdsourcing%20Short%20Squeeze%20Dashboard/GRAPHS-GameStop-Extracting-and-Visualizing-Stock-Data.pdf)
-## IBM Skills Network Hands-On Lab Projects
+## IBM Skills Network: My Completed Lab Projects
 *Coming Soon...*
 ## Skills for Data Science<br>
 The following skills are developed in this professional certificate program:
