@@ -75,5 +75,21 @@ name = name + " is the best"
 name
 # Result is "Michael Jackson is the best"
 
+# ESCAPE sequences are represented by back slashes; Represent strings that may be difficult to input; 'back slash n' represents a new line
+print("Michael Jackson \n is the best")
+# Result will print on two separate lines
 
+# TAB ESCAPE sequence is represented by a 'black slash t' that includes a new tab
+print("Michael Jackson \t is the best")
+# Result will print a tab within the string, between "Michael Jackson" and "is the best"
+
+# Include a double back slash (\\) in a string to include a back slash within the string
+print("Michael Jackson \\ is the best")
+# Result will print Michael Jackson \ is the best
+
+# r before a string tells python that string will print as a raw string
+print(r"Michael Jackson \ is the best")
+# Result will print Michael Jackson \ is the best
+
+# STRING MANIPULATION OPERATIONS
 
