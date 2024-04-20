@@ -1,4 +1,5 @@
 # Data Science Methodology
+> Discover what makes data science interesting, learn what a data science methodology is, and why data scientists need a data science methodology. Gain more in-depth knowledge of the first two data science methodology stages: Business Understanding and Analytic Approach. Discover how to identify considerations and steps needed to define the data requirements for decision tree classification during the Data Requirements stage. Learn about the processes and techniques data scientists use to assess data content, quality, and initial insights and how data scientists manage data gaps. Learn how to approach the Business Understanding and the Analytic Approach stage tasks and the Data Requirements and Collection stage tasks for any data science problem.
 Course 3 of 10 in the IBM Data Science Professional Certificate
 ## Syllabus for Course 3
 - **Week 1:** [From Problem to Approach and From Requirements to Collection](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/03.%20Data%20Science%20Methodology/Week%201:%20From%20Problem%20to%20Approach%20and%20From%20Requirements%20to%20Collection)
