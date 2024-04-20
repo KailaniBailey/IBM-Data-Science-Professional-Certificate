@@ -1,4 +1,5 @@
 # Create and Share a Jupyter Notebook
+> Work on a final project to demonstrate some of the skills learned in the course. Also tested on knowledge of various components and tools in a Data Scientist's toolkit learned in the previous modules.
 ## Final Assignment: Create and Share a Jupyter Notebook
 - Final Assignment Instructions: Create and Share Your Jupyter Notebook
 - Hands-On Lab: Create Your Jupyter Notebook
