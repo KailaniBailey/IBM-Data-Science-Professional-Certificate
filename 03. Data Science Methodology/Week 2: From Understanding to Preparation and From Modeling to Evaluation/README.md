@@ -4,7 +4,7 @@
 - Data Understanding
 - Data Preparation - Concepts
 - Data Preparation - Case Study
-- Hands-On Lab: From Understanding to Preparation
+- Hands-On Lab: [From Understanding to Preparation](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/03.%20Data%20Science%20Methodology/Week%202%3A%20From%20Understanding%20to%20Preparation%20and%20From%20Modeling%20to%20Evaluation/DS0103EN-Exercise-From-Understandin.ipynb)
 - Lesson Summary
 - **Practice Quiz:** From Understanding to Preparation (100%)
 - Glossary
