@@ -92,4 +92,18 @@ print(r"Michael Jackson \ is the best")
 # Result will print Michael Jackson \ is the best
 
 # STRING MANIPULATION OPERATIONS
+# UPPER converts elements in a string from lowercase to uppercase
+a = "Thriller is the sixth studio album"
+print("before upper:", a)
+b = a.upper()
+print("After upper:", b)
+# First line result is Thriller is the sixth studio album
+# Second line result is THRILLER IS THE SIXTH STUDIO ALBUM
+
+# REPLACE replaces a part of the string; include the part of the string you'd like to replace, also include the new string that you'd like to replace the string with
+# Replace the old 'substring' with the new 'target substring'
+a = "Michael Jackson is the best"
+b = a.replace("Michael", "Janet")
+b
+# Result will print '"Janet Jackson is the best"
 
