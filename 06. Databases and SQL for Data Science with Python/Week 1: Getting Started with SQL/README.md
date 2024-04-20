@@ -3,7 +3,7 @@
 - Introduction to Databases
 - SELECT Statement
 - SELECT Statement Examples
-- Hands-On Lab: Simple Select Statements
+- Hands-On Lab: Simple Select Statements (Completed)
 - COUNT, DISTINCT, LIMIT
 - Hands-On Lab: COUNT, DISTINCT, LIMIT
 - INSERT Statement
