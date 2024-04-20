@@ -1,5 +1,5 @@
 # Data Literacy for Data Science (Optional)
-
+>Focuses on understanding data and data literacy and is intended to supplement what was learned in the first three modules. A data scientist will need to understand the ecosystem in which data lives and how it gets manipulated to analyze it. Introduces some of these fundamentals. Explore how data can be generated, stored, and accessed. Take a deeper dive into data repositories and processes for handling massive data sets.
 ## Understanding Data
 - Lesson Overview
 - Data Sources
