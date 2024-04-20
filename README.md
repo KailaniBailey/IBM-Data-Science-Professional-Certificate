@@ -25,7 +25,8 @@ This repository contains select course content, relevant notes, bits of code, fi
       - Graphs for Tesla: [*Extracting and Visualizing Stock Data*](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Week%201%3A%20Crowdsourcing%20Short%20Squeeze%20Dashboard/GRAPHS-Tesla-Extracting-and-Visualizing-Stock-Data.pdf)
       - Graphs for GameStop: [*Extracting and Visualizing Stock Data*](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Week%201%3A%20Crowdsourcing%20Short%20Squeeze%20Dashboard/GRAPHS-GameStop-Extracting-and-Visualizing-Stock-Data.pdf)
 ## IBM Skills Network: My Completed Lab Projects
-*Coming Soon...*
+- ### Course 2: Tools for Data Science
+    - Week 4: Hands-on Lab: [Getting Started with Jupyter Notebooks](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/02.%20Tools%20for%20Data%20Science/Week%204%3A%20Jupyter%20Notebooks%20and%20JupyterLab/Getting_Started_with_JupyterNotebook.ipynb)
 ### Skills for Data Science<br>
 The following skills are developed in this professional certificate program:
 - Import and clean data sets
