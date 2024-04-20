@@ -23,7 +23,7 @@ This repository contains select course content, relevant notes, bits of code, fi
 - ### Course 5: Python Project for Data Science
   - Final Assignment: [*Extracting and Visualizing Stock Data*](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Week%201%3A%20Crowdsourcing%20Short%20Squeeze%20Dashboard/Extracting-and-Visualizing-Stock-Data.ipynb)
       - Graphs for Tesla: [*Extracting and Visualizing Stock Data*](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Week%201%3A%20Crowdsourcing%20Short%20Squeeze%20Dashboard/GRAPHS-Tesla-Extracting-and-Visualizing-Stock-Data.pdf)
-      - Graphs for GameStop: *Extracting and Visualizing Stock Data*
+      - Graphs for GameStop: [*Extracting and Visualizing Stock Data*](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Week%201%3A%20Crowdsourcing%20Short%20Squeeze%20Dashboard/GRAPHS-GameStop-Extracting-and-Visualizing-Stock-Data.pdf)
 ## Skills for Data Science<br>
 The following skills are developed in this professional certificate program:
 - Import and clean data sets
