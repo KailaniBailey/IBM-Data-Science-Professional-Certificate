@@ -1,3 +1,7 @@
+# IBM SKILLS NETWORK LAB
+# This is not the official document with the Skills Network Logo
+# These are my notes from the lab
+
 # Trying first python output for Course 4
 print('Hello, Python!')
 
