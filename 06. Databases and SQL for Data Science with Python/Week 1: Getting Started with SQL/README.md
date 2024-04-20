@@ -3,7 +3,7 @@
 - Introduction to Databases
 - SELECT Statement
 - SELECT Statement Examples
-- Hands-On Lab: Simple Select Statements (Completed)
+- Hands-On Lab: Simple Select Statements (Completed in Skills Network Labs Using Datasette)
 - COUNT, DISTINCT, LIMIT
 - Hands-On Lab: COUNT, DISTINCT, LIMIT
 - INSERT Statement
