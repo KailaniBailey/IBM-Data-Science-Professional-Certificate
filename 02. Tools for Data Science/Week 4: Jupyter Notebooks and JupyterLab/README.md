@@ -11,7 +11,7 @@
     - Getting Started with Jupyter Notebooks: ([Updated for Use in this Lab](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/02.%20Tools%20for%20Data%20Science/Week%204%3A%20Jupyter%20Notebooks%20and%20JupyterLab/My_Notebook.ipynb))
 - Additional Anaconda Jupyter Environments
 - Additional Cloud-Based Jupyter Environments
-- (Optional) Hands-on Lab: Download & Install Anaconda on Windows
+- (Optional) Hands-on Lab: Download & Install Anaconda on Windows (Completed)
 - Jupyter Notebooks on the Internet
 ## Summary and Assessments
 - Lesson Summary: Jupyter Notebooks and JupyterLab
