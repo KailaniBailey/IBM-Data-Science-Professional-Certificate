@@ -52,9 +52,28 @@ name[8:11]
 name[::2]
 # Result is "McalJcsn"
 
-# Can import SLICING with the STRIDE
+# Can incorporate SLICING with the STRIDE
+# Get every 2nd element in the range from index 0 to index 4
+name[0:5:2]
+# Eligible indexes from 0 to 4 are "Micha", then every 2nd is "Mca"
+# Result is "Mca"
 
+# CONCATENATE (combine, add using + symbol) 2 strings together, Result is a new string of both
+statement = name + "is the best"
+statement
+# Result is "Michael Jacksonis the best"
 
+# REPLICATE values of a string by multiplying by a number, Result is the number of times the string was being multipled by
+# Print string for 3 times
+3 * "Michael Jackson"
+# Result is "Michael JacksonMichael JacksonMichael Jackson"
+
+# Can create a new string by setting it to the original variable, CONCATENATED (+) with a new string
+# Concatenate strings
+name = "Michael Jackson"
+name = name + " is the best"
+name
+# Result is "Michael Jackson is the best"
 
 
 
