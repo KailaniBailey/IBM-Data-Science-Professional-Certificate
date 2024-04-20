@@ -1,5 +1,5 @@
 # Overview of Data Science Tools
-
+> Learn about the different types and categories of tools that data scientists use and popular examples of each. Become familiar with Open Source, Cloud-based, and Commercial options for data science tools.
 ## Data Science Tools
 - Categories of Data Science Tools
 - Open Source Tools for Data Science: Pt. 1
