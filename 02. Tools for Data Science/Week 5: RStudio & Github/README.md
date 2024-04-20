@@ -20,6 +20,6 @@
 ## Summary and Assessments
 - Lesson Summary
 - Glossary
-- **Practice Quiz: RStudio**
-- **Practice Quiz: Github**
-- **Graded Quiz: RStudio & Github** (100%)
+- **Practice Quiz:** RStudio (100%)
+- **Practice Quiz:** Github (100%)
+- **Graded Quiz:** RStudio & Github (100%)
