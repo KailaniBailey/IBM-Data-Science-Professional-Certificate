@@ -1,6 +1,5 @@
 # Databases and SQL for Data Science with Python
 ## Syllabus for Course 6
-*Coming Soon...*
 - **Week 1:** Getting Started with SQL
 - **Week 2:** Introduction to Relational Databses and Tables
 - **Week 3:** Intermediate SQL
