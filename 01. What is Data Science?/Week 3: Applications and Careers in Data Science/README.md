@@ -1,5 +1,5 @@
 # Applications and Careers in Data Science
-
+> Learn about the power of data science applications and how organizations leverage this power to drive business goals, improve efficiency, make predictions, and even save lives. Review the process to follow as a data scientist to help organizations accomplish these ends. Investigate what companies seek in a competent, experienced data scientist. Learn how to position to get hired as a data scientist. Amidst the diverse backgrounds from which data scientists emerge, identify the qualities they share and skills that consistently set them apart from other data-related roles. Complete a peer-reviewed final project by looking at a job posting for data scientist and identifying commonalities between the job and what was learned in this course. Walk through a case study and learn about Sarah and her data science journey.
 ## Data Science Application Domains
 - Lesson Overview
 - How Should Companies Get Started in Data Science?
