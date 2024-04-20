@@ -10,11 +10,11 @@
 - What is Hadoop?
 - Big Data Processing Tools: Hadoop, HDFS, Hive, and Spark
 - Reading: Data Mining
-- **Practice Quiz: Data Mining**
+- **Practice Quiz:** Data Mining (100%)
 - Lesson Summary: Big Data and Data Mining
-- **Practice Quiz: Big Data and Data Mining**
+- **Practice Quiz:** Big Data and Data Mining (100%)
 - Glossary: Big Data and Data Mining
-- **Graded Quiz: Big Data and Data Mining** (100%)
+- **Graded Quiz:** Big Data and Data Mining (100%)
 
 ## Deep Learning and Machine Learning
 - Lesson Overview
@@ -23,10 +23,10 @@
 - Neural Networks and Deep Learning
 - Applications of Machine Learning
 - Reading: Regression
-- **Practice Quiz: Regression**
+- **Practice Quiz:** Regression (100%)
 - Lab: Exploring Data using IBM Cloud Gallery
 - Lesson Summary: Deep Learning and Machine Learning
-- **Practice Quiz: Deep Learning and Machine Learning**
+- **Practice Quiz:** Deep Learning and Machine Learning (100%)
 - Glossary: Deep Learning and Machine Learning
-- **Graded Quiz: Deep Learning and Machine Learning** (100%)
+- **Graded Quiz:** Deep Learning and Machine Learning (100%)
 - Summary: Deep Learning and Machine Learning
