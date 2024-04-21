@@ -100,6 +100,11 @@ print("After upper:", b)
 # First line result is Thriller is the sixth studio album
 # Second line result is THRILLER IS THE SIXTH STUDIO ALBUM
 
+# LOWER converts elements in a string from uppercase to lowercase
+f2 = "YOU ARE RIGHT"
+f2.lower()
+# Result will print "you are right"
+
 # REPLACE replaces a part of the string; include the part of the string you'd like to replace, also include the new string that you'd like to replace the string with
 # Replace the old 'substring' with the new 'target substring'
 a = "Michael Jackson is the best"
@@ -107,3 +112,27 @@ b = a.replace("Michael", "Janet")
 b
 # Result will print '"Janet Jackson is the best"
 
+# FIND is a method that will find a substring; the argument is the substring you want to find; the output is the first input of the sequence
+# Find the substring in the string
+name = "Michael Jackson"
+name.find(el)
+# Result will print 5; 'el' would be '5,6' but only the first element will print as an output, so the output is 5
+
+# If python cannot find the substring in the string; if it isn't found in the string; Result will print output as negative 1 (-1)
+name.find("alskdfjaweoifj")
+# Result is -1
+
+# SPLIT cuts the string at the designated separator and returns a list
+# Split substring into a list
+name = "Michael Jackson"
+split_string = (name.split())
+split_string
+# Result is ["Michael", "Jackson"]
+
+# REGEX (RegEx), short for Regular Expression, is a tool for matching and handling strings
+# Provides several functions for SEARCH, SPLIT, FINDALL, and SUB
+import re 
+# imports the python module for the RegEx tool
+re.search() # Function that searches for specific info within a string
+
+# DONE!!!
