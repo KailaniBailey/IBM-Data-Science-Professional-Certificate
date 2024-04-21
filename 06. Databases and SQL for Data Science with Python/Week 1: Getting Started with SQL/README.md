@@ -1,4 +1,5 @@
 # Getting Started with SQL
+>An introduction to databases. Learn how to use basic SQL statements like SELECT, INSERT, UPDATE and DELETE. Get an understanding of how to refine query results with the WHERE clause as well as using COUNT, LIMIT and DISTINCT.
 ## Basic SQL
 - Introduction to Databases
 - SELECT Statement
