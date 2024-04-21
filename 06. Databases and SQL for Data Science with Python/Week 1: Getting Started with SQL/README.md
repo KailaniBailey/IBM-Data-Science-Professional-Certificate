@@ -11,6 +11,6 @@
 - UPDATE and DELETE Statements
 - Hands-On Lab: INSERT, UPDATE, and DELETE (Completed in Skills Network Labs Using Datasette)
 - Lesson Summary
-- **Practice Quiz:** Basic SQL
+- **Practice Quiz:** Basic SQL (100%)
 - SQL Cheatsheet: Basics- SELECT, INSERT, UPDATE, DELETE, COUNT, DISTINCT, LIMIT
 - **Graded Quiz:** Basic SQL
