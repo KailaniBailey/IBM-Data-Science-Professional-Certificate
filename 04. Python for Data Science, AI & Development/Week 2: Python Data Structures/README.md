@@ -4,14 +4,14 @@
 - Lists and Tuples
 - Hands-On Lab: Lists
 - Hands-On Lab: Tuples
-- **Practice Quiz**
+- **Practice Quiz** (100%)
 ## Dictionaries
 - Dictionaries
 - Hands-On Lab: Dictionaries
-- **Practice Quiz**
+- **Practice Quiz** (100%)
 ## Sets
 - Sets
 - Hands-On Lab: Sets
 - Cheatsheet: Dictionaries & Sets
-- **Practice Quiz**
-- **Graded Quiz: Python Data Structures** (100%)
+- **Practice Quiz** (100%)
+- **Graded Quiz:** Python Data Structures (100%)
