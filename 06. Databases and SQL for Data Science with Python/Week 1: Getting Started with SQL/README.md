@@ -13,4 +13,4 @@
 - Lesson Summary
 - **Practice Quiz:** Basic SQL (100%)
 - SQL Cheatsheet: Basics- SELECT, INSERT, UPDATE, DELETE, COUNT, DISTINCT, LIMIT
-- **Graded Quiz:** Basic SQL
+- **Graded Quiz:** Basic SQL (100%)
