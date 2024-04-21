@@ -1,5 +1,5 @@
 # Introduction to Relational Databases and Tables
-## Introduction to Relational Databases amd Tables
+## Introduction to Relational Databases and Tables
 - Relational Database Concepts
 - Types of SQL Statements (DDL vs. DML)
 - CREATE TABLE STATEMENT
