@@ -2,7 +2,7 @@
 ## Syllabus for Course 6
 - **Week 1:** [Getting Started with SQL](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%201%3A%20Getting%20Started%20with%20SQL)
 - **Week 2:** [Introduction to Relational Databases and Tables](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%202%3A%20Introduction%20to%20Relational%20Databses%20and%20Tables)
-- **Week 3:** Intermediate SQL
+- **Week 3:** [Intermediate SQL](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%203%3A%20Intermediate%20SQL)
 - **Week 4:** Accessing Databases with Python
 - **Week 5:** Course Assignment
 - **Week 6:** Bonus: Advanced SQL for Data Engineers (Advanced)
