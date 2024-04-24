@@ -1,4 +1,5 @@
 # Introduction to Relational Databases and Tables
+> Learn more about relational database concepts and their importance. Understand the process of creating a table in a database on MySQL using the graphical interface and SQL scripts. Learn how to alter the entries or delete the entries for any table in the database, or even delete the table itself.
 ## Introduction to Relational Databases and Tables
 - Relational Database Concepts
 - Types of SQL Statements (DDL vs. DML)
