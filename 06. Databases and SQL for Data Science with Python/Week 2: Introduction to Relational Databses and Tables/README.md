@@ -11,6 +11,7 @@
     - (Completed using the phpMyAdmin graphical user interface (GUI) tool in the MySQL database)
 - SQL Scripts - Uses and Applications [Notes in SQL script](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%202:%20Introduction%20to%20Relational%20Databses%20and%20Tables/Sample-Script.sql)
 - Hands-On Lab: Create and Load Tables Using SQL Scripts
+    - - (Completed using the phpMyAdmin graphical user interface (GUI) tool in the MySQL database)
 - Summary: Relational Database Concepts and Tables
 - **Practice Quiz:** Introduction to Relational Databases and Tables (100%)
 - [SQL Cheat Sheet: CREATE TABLE, ALTER, DROP, TRUNCATE](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%202%3A%20Introduction%20to%20Relational%20Databses%20and%20Tables/SQL-Cheat-Sheet-Week2.pdf)
