@@ -1,5 +1,5 @@
 # Accessing Databases with Python
-## Accessing Databses with Python
+## Accessing Databases with Python
 - How to Access Databases Using Python
 - Writing Code Using DB-API
 - Hands-On Lab: Creating Tables, Inserting and Querying Data
