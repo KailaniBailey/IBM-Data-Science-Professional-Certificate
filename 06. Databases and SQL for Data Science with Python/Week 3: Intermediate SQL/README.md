@@ -22,4 +22,4 @@
 - Summary: Functions, Multiple Tables, and Sub-queries
 - **Practice Quiz:** Functions, Multiple Tables, and Sub-queries (100%)
 - SQL Cheat Sheet: [FUNCTIONS and Implicit JOIN](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%203%3A%20Intermediate%20SQL/SQL-Cheat-Sheet-FUNCTIONS-and-Implicit-JOIN.pdf)
-- **Graded Quiz:** Functions, Multiple Tables, and Sub-queries
+- **Graded Quiz:** Functions, Multiple Tables, and Sub-queries (100%)
