@@ -1,4 +1,5 @@
 # Intermediate SQL
+> Learn how to use string patterns and ranges to search data and how to sort and group data in result sets. Practice composing nested queries and execute select statements to access data from multiple tables.
 ## Refining Your Results
 - Using String Patterns and Ranges
 - Sorting Result Sets
