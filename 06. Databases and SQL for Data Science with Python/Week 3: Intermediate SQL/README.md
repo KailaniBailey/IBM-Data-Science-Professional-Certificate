@@ -7,7 +7,7 @@
 - Hands-On Lab: String Patterns, Sorting and Grouping
 - Optional: Hands-On Labs Using IBM Db2
 - Summary: Refining Your Results
-- **Practice Quiz:** Refining Your Results
+- **Practice Quiz:** Refining Your Results (100%)
 - SQL Cheat Sheet: Intermediate - LIKE, ORDER BY, GROUP BY
 - **Graded Quiz:** Refining Your Results
 ## Functions, Multiple Tables, and Sub-queries
