@@ -8,7 +8,7 @@
 - Analyzing Data with Python
 - Hands-On Lab: Analyzing a Real-World Data Set
 - Summary: Accessing Databases Using Python
-- **Practice Quiz:** Accessing Databases Using Python
+- **Practice Quiz:** Accessing Databases Using Python (100%)
 - SQL Cheat Sheet: Accessing Databases Using Python
 - **Graded Quiz:** Accessing Databases Using Python
 ## (Optional) Using IBM Db2 
