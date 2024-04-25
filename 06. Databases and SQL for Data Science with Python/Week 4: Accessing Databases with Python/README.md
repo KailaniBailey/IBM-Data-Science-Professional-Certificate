@@ -9,7 +9,7 @@
 - Hands-On Lab: Analyzing a Real-World Data Set
 - Summary: Accessing Databases Using Python
 - **Practice Quiz:** Accessing Databases Using Python (100%)
-- SQL Cheat Sheet: Accessing Databases Using Python
+- SQL Cheat Sheet: [Accessing Databases Using Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%204%3A%20Accessing%20Databases%20with%20Python/SQL-Cheat-Sheet-Accessing-Databases-Using-Python.pdf)
 - **Graded Quiz:** Accessing Databases Using Python
 ## (Optional) Using IBM Db2 
 - Optional: Hands-On Labs Using IBM Db2
