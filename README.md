@@ -41,6 +41,8 @@ This repository contains select course content, relevant notes, bits of code, fi
         - Your First Program, Types, Expressions and Variables ([Notes in Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Week%201%3A%20Python%20Basics/WriteFirstPythonCode.py))
     - Week 1: Hands-On Lab: [Strings](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Week%201%3A%20Python%20Basics/PY0101EN-1-2-Strings.ipynb)
         - Strings ([Notes in Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Week%201%3A%20Python%20Basics/strings.py))
+- ### Course 6: Databases and SQL for Data Science with Python
+    - Week 5: Hands-On Lab: [Working with a Real World Dataset](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%205%3A%20Course%20Assignment/DB0201EN-Week4-1-1-RealDataPractice-v5_sqlite_Learner.ipynb)
 ### Skills for Data Science<br>
 The following skills are developed in this professional certificate program:
 - Import and clean data sets
