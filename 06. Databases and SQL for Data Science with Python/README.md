@@ -21,5 +21,5 @@
 **Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/TM7XXHJW9V2R) to verify the certificate. <br>
 ![Screenshot (52)](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/5bc4319d-d0b1-4550-a63e-f13aa63fd010) <br>
 # Course 6 Digital Badge:
-Please click here to verify the IBM digital badge.<br>
+Please [click here](https://www.credly.com/badges/c4ed4ec5-03dd-4f4a-91b5-48a0c78b506a/public_url) to verify the IBM digital badge.<br>
 
