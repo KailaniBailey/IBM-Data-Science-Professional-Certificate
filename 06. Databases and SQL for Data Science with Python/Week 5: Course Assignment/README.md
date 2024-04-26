@@ -4,7 +4,7 @@
 - Working with Real World Datasets
 - Getting Table and Column Details
 - Hands-On Lab: [Working with a Real World Dataset](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%205%3A%20Course%20Assignment/DB0201EN-Week4-1-1-RealDataPractice-v5_sqlite_Learner.ipynb)
-    - Dataset Used for Lab: [ChicagoPublicSchools.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%205%3A%20Course%20Assignment/ChicagoPublicSchools.csv)
+    - School Data Used for Lab: [ChicagoPublicSchools.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%205%3A%20Course%20Assignment/ChicagoPublicSchools.csv)
     - Report Card Data Used for Lab: [Chicago Public Schools Report Card Data (PDF)](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%205%3A%20Course%20Assignment/cps_reportcard_data_description.pdf)
 - Summary and Highlights
 ## Optional: Using IBM Db2
