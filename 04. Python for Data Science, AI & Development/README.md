@@ -24,4 +24,4 @@ Course 4 of 10 in the IBM Data Science Professional Certificate
 ![python for data sci and dev](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/fc84b975-c679-4fd9-998a-e680a5c15d47)
 # Course 4 Digital Badge:
 Please [click here](https://www.credly.com/badges/ac55ea7f-bd5f-4535-a572-e0e08227cc11/public_url) to verify the IBM digital badge.<br>
-![Screenshot (50)](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/d582276e-f13f-43d6-b771-10d067538560)
+![python-for-data-science-and-ai](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/f89a0570-e805-4455-9d89-33eb4ad8a1bf)
