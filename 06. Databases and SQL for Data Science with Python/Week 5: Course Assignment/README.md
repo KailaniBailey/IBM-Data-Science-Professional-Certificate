@@ -15,6 +15,8 @@
     - School Data Used for Final: [ChicagoPublicSchools.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%205%3A%20Course%20Assignment/ChicagoPublicSchools.csv)
     - Census Data Used for Final: [ChicagoCensusData.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%205%3A%20Course%20Assignment/ChicagoCensusData.csv)
     - Crime Data Used for Final: [ChicagoCrimeData.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%205%3A%20Course%20Assignment/ChicagoCrimeData.csv)
+        - Web Link for Chicago Crime Data: [Chicago Data Portal](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/about_data?utm_content=000026UJ&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDB0201ENSkillsNetwork20127838-2021-01-01&utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_term=10006555)
+        - Web Link for Chicago Census Data: [Chicago Data Portal](https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2/about_data?utm_content=000026UJ&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDB0201ENSkillsNetwork20127838-2021-01-01&utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_term=10006555)
 - **Graded Quiz on Assignment** (100%)
 ## Final Exam and Course Wrap-up
 - **Final Exam** (100%)
