@@ -18,5 +18,5 @@
 - SQL
 - Jupyter Notebooks
 # Course 6 Completion Certificate:
-**Additional Info:** Please click here to verify the certificate.
+**Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/TM7XXHJW9V2R) to verify the certificate.
 *Coming Soon*
