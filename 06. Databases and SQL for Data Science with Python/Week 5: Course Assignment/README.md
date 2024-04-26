@@ -11,7 +11,7 @@
 - Optional: Hands-On Labs Using IBM Db2
 - Optional: Hands-On Lab: Practice Querying Real World Datasets
 ## Final Assignment
-- Final Assignment: Database Querying Using SQLite
+- Final Assignment: [Database Querying Using SQLite](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%205%3A%20Course%20Assignment/Notebook-for-Graded-Assignment.ipynb)
 - **Graded Quiz on Assignment** (100%)
 ## Final Exam and Course Wrap-up
 - **Final Exam**
