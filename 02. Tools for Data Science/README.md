@@ -35,3 +35,4 @@ Course 2 of 10 in the IBM Data Science Professional Certificate
 ![tools for data science](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/b2d8f8bd-80b2-4ce4-8a17-acc062e6371a)
 # Course 2 Digital Badge:
 Please [click here](https://www.credly.com/badges/8a5ea92d-9cc4-4bb0-9101-8503605fad44/public_url) to verify the IBM digital badge.<br>
+![tools-for-data-science-v2](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/c6b43472-a135-4f74-9157-ce37fefc699d)
