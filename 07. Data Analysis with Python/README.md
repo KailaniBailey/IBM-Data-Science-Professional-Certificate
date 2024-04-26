@@ -16,3 +16,5 @@
 # Course 7 Completion Certificate:
 **Additional Info:** Please click here to verify the certificate.
 *Coming Soon...*
+# Course 7 Digital Badge:
+Please click here to verify the IBM digital badge.
