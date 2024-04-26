@@ -12,6 +12,6 @@
 - Optional: Hands-On Lab: Practice Querying Real World Datasets
 ## Final Assignment
 - Final Assignment: Database Querying Using SQLite
-- **Graded Quiz on Assignment**
+- **Graded Quiz on Assignment** (100%)
 ## Final Exam and Course Wrap-up
 - **Final Exam**
