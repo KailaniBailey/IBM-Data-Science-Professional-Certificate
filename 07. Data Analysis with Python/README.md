@@ -3,7 +3,7 @@
 - Week 1: [Importing Data Sets](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/07.%20Data%20Analysis%20with%20Python/Week%201%3A%20Importing%20Data%20Sets)
 - Week 2: [Data Wrangling](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/07.%20Data%20Analysis%20with%20Python/Week%202%3A%20Data%20Wrangling)
 - Week 3: [Exploratory Data Analysis](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/07.%20Data%20Analysis%20with%20Python/Week%203%3A%20Exploratory%20Data%20Analysis)
-- Week 4: Model Development
+- Week 4: [Model Development](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/07.%20Data%20Analysis%20with%20Python/Week%204%3A%20Model%20Development)
 - Week 5: Model Evaluation and Refinement
 - Week 6: Final Assignment
 ## Summary of Tasks
