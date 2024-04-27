@@ -55,6 +55,8 @@ This repository contains select course content, relevant notes, bits of code, fi
         - Car Pricing Used for Lab: [auto.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%201%3A%20Importing%20Data%20Sets/auto.csv)
     - Week 1: Hands-On Lab: [Importing Datasets - Laptop Pricing](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%201%3A%20Importing%20Data%20Sets/Practice_data_loading.ipynb)
        - Laptop Pricing Used for Lab: [laptops.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%201%3A%20Importing%20Data%20Sets/laptops.csv)
+    - Week 2: Hands-On Lab: [Data Wrangling - Used Cars Pricing](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%202%3A%20Data%20Wrangling/DA0101EN-2-Review-Data-Wrangling.ipynb)
+        - Car Pricing Used for Lab: [auto.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%202%3A%20Data%20Wrangling/auto.csv)
 ### Skills for Data Science<br>
 The following skills are developed in this professional certificate program:
 - Import and clean data sets
