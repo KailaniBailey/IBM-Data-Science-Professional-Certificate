@@ -1,6 +1,11 @@
 # Data Analysis with Python
 ## Syllabus for Course 7
-*Coming Soon...*
+- Week 1: Importing Data Sets
+- Week 2: Data Wrangling
+- Week 3: Exploratory Data Analysis
+- Week 4: Model Development
+- Week 5: Model Evaluation and Refinement
+- Week 6: Final Assignment
 ## Summary of Tasks
 - Develop Python code for cleaning and preparing data for analysis - including handling missing values, formatting, normalizing, and binning data.
 - Perform exploratory data analysis and apply analytical techniques to real-world datasets using libraries such as Pandas, Numpy, and Scipy.
