@@ -10,7 +10,7 @@
 - Lesson Summary
 - **Practice Quiz:** Importing Data Sets (100%)
 ## Hands-On Labs: Importing Data Sets
-- Lab: Importing Datasets - Used Cars Pricing
+- Lab: [Importing Datasets - Used Cars Pricing](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%201%3A%20Importing%20Data%20Sets/DA0101EN-Review-Introduction.ipynb)
     - Pricing Used for Data ([auto.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%201%3A%20Importing%20Data%20Sets/auto.csv))
 - Overview: Laptop Pricing Data Set
 - Lab: Importing Datasets - Laptop Pricing
