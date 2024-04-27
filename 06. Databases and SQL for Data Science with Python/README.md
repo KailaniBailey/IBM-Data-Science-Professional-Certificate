@@ -17,7 +17,7 @@
 - Relational Database Management System (RDBMS)
 - SQL
 - Jupyter Notebooks
-## Final Assignment
+## [Final Assignment](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%205%3A%20Course%20Assignment/Notebook-for-Graded-Assignment.ipynb)
 - Graded Assignment: 100%
 ## Final Exam
 - Graded Assignment: 100%
