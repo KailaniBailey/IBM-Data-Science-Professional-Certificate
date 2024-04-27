@@ -8,7 +8,7 @@
 - Binning in Python
 - Turning Categorical Variables into Quantitative Variables in Python
 - Lesson Summary
-- **Practice Quiz:** Data Wrangling
+- **Practice Quiz:** Data Wrangling (100%)
 ## Hands-On Lab: Data Wrangling
 - Lab: Data Wrangling - Used Cars Pricing
 - Lab: Data Wrangling - Laptop Pricing
