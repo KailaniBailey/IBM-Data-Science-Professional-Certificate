@@ -8,7 +8,7 @@
 - Getting Started Analyzing Data in Python
 - Accessing Databases with Python
 - Lesson Summary
-- **Practice Quiz:** Importing Data Sets
+- **Practice Quiz:** Importing Data Sets (100%)
 ## Hands-On Labs: Importing Data Sets
 - Lab: Importing Datasets - Used Cars Pricing
 - Overview: Laptop Pricing Data Set
