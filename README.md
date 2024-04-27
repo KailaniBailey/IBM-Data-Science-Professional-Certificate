@@ -50,6 +50,9 @@ This repository contains select course content, relevant notes, bits of code, fi
     - Week 5: Hands-On Lab: [Working with a Real World Dataset](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%205%3A%20Course%20Assignment/DB0201EN-Week4-1-1-RealDataPractice-v5_sqlite_Learner.ipynb)
         - Dataset Used for Lab: [ChicagoPublicSchools.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%205%3A%20Course%20Assignment/ChicagoPublicSchools.csv)
         - Report Card Data Used for Lab: [Chicago Public Schools Report Card Data (PDF)](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%205%3A%20Course%20Assignment/cps_reportcard_data_description.pdf)
+- ### Course 7: Data Analysis with Python
+    - Week 1: Hands-On Lab: [Importing Datasets - Used Cars Pricing](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%201%3A%20Importing%20Data%20Sets/DA0101EN-Review-Introduction.ipynb)
+        - Pricing Used for Lab: ([auto.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%201%3A%20Importing%20Data%20Sets/auto.csv))
 ### Skills for Data Science<br>
 The following skills are developed in this professional certificate program:
 - Import and clean data sets
