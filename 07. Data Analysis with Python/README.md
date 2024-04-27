@@ -18,6 +18,10 @@
 - Classification
 - Scipy
 - scikit-learn
+## Final Assignment
+- Graded Assignment: 
+## Final Exam
+- Graded Assignment:
 # Course 7 Completion Certificate:
 **Additional Info:** Please click here to verify the certificate.
 *Coming Soon...*
