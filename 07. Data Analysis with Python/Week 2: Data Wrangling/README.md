@@ -10,7 +10,7 @@
 - Lesson Summary
 - **Practice Quiz:** Data Wrangling (100%)
 ## Hands-On Lab: Data Wrangling
-- Lab: Data Wrangling - Used Cars Pricing
+- Lab: [Data Wrangling - Used Cars Pricing](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%202%3A%20Data%20Wrangling/DA0101EN-2-Review-Data-Wrangling.ipynb)
     - Car Pricing Used for Lab: [auto.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%202%3A%20Data%20Wrangling/auto.csv)
 - Lab: Data Wrangling - Laptop Pricing
 ## Quiz: Data Wrangling
