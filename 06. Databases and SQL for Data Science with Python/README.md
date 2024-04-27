@@ -17,6 +17,8 @@
 - Relational Database Management System (RDBMS)
 - SQL
 - Jupyter Notebooks
+## Final Assignment
+## Final Exam
 # Course 6 Completion Certificate:
 **Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/TM7XXHJW9V2R) to verify the certificate. <br>
 ![Screenshot (52)](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/5bc4319d-d0b1-4550-a63e-f13aa63fd010) <br>
