@@ -1,7 +1,7 @@
 # Data Analysis with Python
 ## Syllabus for Course 7
 - Week 1: [Importing Data Sets](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/07.%20Data%20Analysis%20with%20Python/Week%201%3A%20Importing%20Data%20Sets)
-- Week 2: Data Wrangling
+- Week 2: [Data Wrangling](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/07.%20Data%20Analysis%20with%20Python/Week%202%3A%20Data%20Wrangling)
 - Week 3: Exploratory Data Analysis
 - Week 4: Model Development
 - Week 5: Model Evaluation and Refinement
