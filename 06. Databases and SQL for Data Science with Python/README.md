@@ -18,7 +18,7 @@
 - SQL
 - Jupyter Notebooks
 ## Final Assignment
-- Graded Assignment: 
+- Graded Assignment: 100%
 ## Final Exam
 - Graded Assignment: 100%
 # Course 6 Completion Certificate:
