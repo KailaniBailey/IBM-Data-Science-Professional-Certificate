@@ -13,5 +13,5 @@
 - Lab: Data Wrangling - Used Cars Pricing
 - Lab: Data Wrangling - Laptop Pricing
 ## Quiz: Data Wrangling
-- Cheat Sheet: Data Wrangling
+- Cheat Sheet: [Data Wrangling](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%202%3A%20Data%20Wrangling/Cheat-Sheet-Data-Wrangling.pdf)
 - **Graded Quiz:** Data Wrangling
