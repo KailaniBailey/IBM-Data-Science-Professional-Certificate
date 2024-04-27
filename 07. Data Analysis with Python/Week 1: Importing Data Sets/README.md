@@ -14,5 +14,5 @@
 - Overview: Laptop Pricing Data Set
 - Lab: Importing Datasets - Laptop Pricing
 ## Graded Quiz: Importing Data Sets
-- Cheat Sheet: Importing Data Sets
+- Cheat Sheet: [Importing Data Sets](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%201%3A%20Importing%20Data%20Sets/Cheat-Sheet-Importing-Data-Sets.pdf)
 - **Graded Quiz:** Importing Data Sets
