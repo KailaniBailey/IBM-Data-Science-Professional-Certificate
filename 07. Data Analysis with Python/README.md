@@ -5,7 +5,7 @@
 - Week 3: [Exploratory Data Analysis](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/07.%20Data%20Analysis%20with%20Python/Week%203%3A%20Exploratory%20Data%20Analysis)
 - Week 4: [Model Development](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/07.%20Data%20Analysis%20with%20Python/Week%204%3A%20Model%20Development)
 - Week 5: [Model Evaluation and Refinement](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/07.%20Data%20Analysis%20with%20Python/Week%205%3A%20Model%20Evaluation%20and%20Refinement)
-- Week 6: Final Assignment
+- Week 6: [Final Assignment](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/07.%20Data%20Analysis%20with%20Python/Week%206%3A%20Final%20Assignment)
 ## Summary of Tasks
 - Develop Python code for cleaning and preparing data for analysis - including handling missing values, formatting, normalizing, and binning data.
 - Perform exploratory data analysis and apply analytical techniques to real-world datasets using libraries such as Pandas, Numpy, and Scipy.
