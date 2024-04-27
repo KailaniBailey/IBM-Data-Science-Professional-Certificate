@@ -11,9 +11,9 @@
 - **Practice Quiz:** Importing Data Sets (100%)
 ## Hands-On Labs: Importing Data Sets
 - Lab: [Importing Datasets - Used Cars Pricing](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%201%3A%20Importing%20Data%20Sets/DA0101EN-Review-Introduction.ipynb)
-    - Pricing Used for Lab: [auto.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%201%3A%20Importing%20Data%20Sets/auto.csv)
+    - Car Pricing Used for Lab: [auto.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%201%3A%20Importing%20Data%20Sets/auto.csv)
 - Overview: Laptop Pricing Data Set
-    - Laptops Used for Lab: [laptops.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%201%3A%20Importing%20Data%20Sets/laptops.csv)
+    - Laptop Pricing Used for Lab: [laptops.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%201%3A%20Importing%20Data%20Sets/laptops.csv)
 - Lab: Importing Datasets - Laptop Pricing
 ## Graded Quiz: Importing Data Sets
 - Cheat Sheet: [Importing Data Sets](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%201%3A%20Importing%20Data%20Sets/Cheat-Sheet-Importing-Data-Sets.pdf)
