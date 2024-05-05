@@ -14,4 +14,4 @@
 - Lab: [Exploratory Data Analysis - Laptop Pricing](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%203%3A%20Exploratory%20Data%20Analysis/practice_Exploratory_data_analysis.ipynb)
 ## Graded Quiz: Exploratory Data Analysis
 - Cheat Sheet: [Exploratory Data Analysis](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%203%3A%20Exploratory%20Data%20Analysis/data-analysis-with-python.pdf)
-- **Graded Quiz:** Exploratory Data Analysis
+- **Graded Quiz:** Exploratory Data Analysis (100%)
