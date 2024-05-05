@@ -8,7 +8,7 @@
 - Correlation
 - Correlation - Statistics
 - Lesson Summary
-- **Practice Quiz:** Exploratory Data Analysis
+- **Practice Quiz:** Exploratory Data Analysis (100%)
 ## Hands-On Lab: Exploratory Data Analysis
 - Lab: Exploratory Data Analysis - Used Car Pricing
 - Lab: Exploratory Data Analysis - Laptop Pricing
