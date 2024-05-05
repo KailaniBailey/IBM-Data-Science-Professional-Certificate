@@ -4,7 +4,7 @@
 - Exploratory Data Analysis
 - Descriptive Statistics
 - GroupBy in Python
-- Creating Different Kinds of Plots in Python
+- [Creating Different Kinds of Plots in Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%203%3A%20Exploratory%20Data%20Analysis/data-visualization-commands-in-python.pdf)
 - Correlation
 - Correlation - Statistics
 - Lesson Summary
