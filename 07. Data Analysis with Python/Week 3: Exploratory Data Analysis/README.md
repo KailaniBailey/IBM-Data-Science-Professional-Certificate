@@ -13,7 +13,7 @@
 - Lab: [Exploratory Data Analysis - Used Car Pricing](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%203%3A%20Exploratory%20Data%20Analysis/data-visualization-commands-in-python.pdf)
     - Car Pricing Used for Lab: [usedcars.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%203%3A%20Exploratory%20Data%20Analysis/usedcars.csv)
 - Lab: [Exploratory Data Analysis - Laptop Pricing](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%203%3A%20Exploratory%20Data%20Analysis/practice_Exploratory_data_analysis.ipynb)
-    - Laptop Pricing Used for Lab: laptops.csv
+    - Laptop Pricing Used for Lab: [laptops.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%203%3A%20Exploratory%20Data%20Analysis/laptops%20(1).csv)
 ## Graded Quiz: Exploratory Data Analysis
 - Cheat Sheet: [Exploratory Data Analysis](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%203%3A%20Exploratory%20Data%20Analysis/data-analysis-with-python.pdf)
 - **Graded Quiz:** Exploratory Data Analysis (100%)
