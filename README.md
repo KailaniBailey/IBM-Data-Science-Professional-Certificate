@@ -59,6 +59,10 @@ This repository contains select course content, relevant notes, bits of code, fi
         - Car Pricing Used for Lab: [auto.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%202%3A%20Data%20Wrangling/auto.csv)
     - Week 2: Hands-On Lab: [Data Wrangling - Laptop Pricing](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%202%3A%20Data%20Wrangling/practice_data_wrangling.ipynb)
         - Laptop Pricing Used for Lab: [laptops.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%202%3A%20Data%20Wrangling/laptops.csv)
+    - Week 3: Hands-On Lab: [Exploratory Data Analysis - Used Car Pricing](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%203%3A%20Exploratory%20Data%20Analysis/data-visualization-commands-in-python.pdf)
+        - Car Pricing Used for Lab: [usedcars.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%203%3A%20Exploratory%20Data%20Analysis/usedcars.csv)
+    - Week 3: Hands-On Lab: [Exploratory Data Analysis - Laptop Pricing](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%203%3A%20Exploratory%20Data%20Analysis/practice_Exploratory_data_analysis.ipynb)
+        - Laptop Pricing Used for Lab: [laptops.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%203%3A%20Exploratory%20Data%20Analysis/laptops%20(1).csv)
 ### Skills for Data Science<br>
 The following skills are developed in this professional certificate program:
 - Import and clean data sets
