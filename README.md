@@ -63,6 +63,10 @@ This repository contains select course content, relevant notes, bits of code, fi
         - Car Pricing Used for Lab: [usedcars.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%203%3A%20Exploratory%20Data%20Analysis/usedcars.csv)
     - Week 3: Hands-On Lab: [Exploratory Data Analysis - Laptop Pricing](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%203%3A%20Exploratory%20Data%20Analysis/practice_Exploratory_data_analysis.ipynb)
         - Laptop Pricing Used for Lab: [laptops.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%203%3A%20Exploratory%20Data%20Analysis/laptops%20(1).csv)
+    - Week 4: Hands-On Lab: [Model Development - Used Car Pricing](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%204%3A%20Model%20Development/DA0101EN-4-Review-Model-Development.ipynb)
+        - Car Pricing Used for Lab: [usedcars.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%204%3A%20Model%20Development/usedcars.csv)
+    - Week 4: Hands-On Lab: [Model Development - Laptop Pricing](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%204%3A%20Model%20Development/practice_model_development_laptops.ipynb)
+        - Laptop Pricing Used for Lab: [laptops.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%204%3A%20Model%20Development/laptops%20(1).csv)
 ### Skills for Data Science<br>
 The following skills are developed in this professional certificate program:
 - Import and clean data sets
