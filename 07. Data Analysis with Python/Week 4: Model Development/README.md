@@ -11,6 +11,7 @@
 - **Practice Quiz:** Model Development
 ## Hands-On Lab: Model Development
 - Lab: [Model Development - Used Car Pricing](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%204%3A%20Model%20Development/DA0101EN-4-Review-Model-Development.ipynb)
+    - Car Pricing Used for Lab: usedcars.csv
 - Lab: Model Development - Laptop Pricing
 ## Quiz: Model Development
 - Cheat Sheet: [Model Development](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%204%3A%20Model%20Development/Cheat-Sheet-Model-Development.pdf)
