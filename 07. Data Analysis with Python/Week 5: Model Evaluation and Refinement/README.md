@@ -9,7 +9,7 @@
 - Lesson Summary
 - **Practice Quiz:** Model Evaluation and Refinement
 ## Hands-On Lab: Model Evaluation and Refinement
-- Lab: Model Evaluation and Refinement - Used Car Pricing
+- Lab: [Model Evaluation and Refinement - Used Car Pricing](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%205%3A%20Model%20Evaluation%20and%20Refinement/Model_Evaluation_and_Refinement_cars.ipynb)
 - Lab: Model Evaluation and Refinement - Laptop Pricing
 ## Graded Quiz: Model Refinement
 - Cheat Sheet: [Model Evaluation and Refinement](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%205%3A%20Model%20Evaluation%20and%20Refinement/Cheat-Sheet-Model-Evaluation-and-Refinement.pdf)
