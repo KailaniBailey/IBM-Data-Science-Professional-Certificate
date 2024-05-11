@@ -16,4 +16,4 @@
     - Laptop Pricing Used for Lab: [laptops.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%204%3A%20Model%20Development/laptops%20(1).csv)
 ## Quiz: Model Development
 - Cheat Sheet: [Model Development](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%204%3A%20Model%20Development/Cheat-Sheet-Model-Development.pdf)
-- **Graded Quiz:** Model Development
+- **Graded Quiz:** Model Development (80%)
