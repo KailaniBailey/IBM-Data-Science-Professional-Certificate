@@ -8,5 +8,5 @@
 - Lab for Final Project: Data Analytics for House Pricing Data Set
 - **Graded Assignment:** Submit Your Project and Review Others
 ## Final Exam
-- Cheat Sheet: Data Analysis for Python
+- Cheat Sheet: [Data Analysis for Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%206%3A%20Final%20Assignment/Python%20Cheat%20Sheet%20for%20Data%20Analysis.pdf)
 - **Graded Assignment:** Final Exam
