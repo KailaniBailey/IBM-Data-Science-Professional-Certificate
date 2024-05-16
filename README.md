@@ -29,6 +29,10 @@ This repository contains select course content, relevant notes, bits of code, fi
       - School Data Used for Final: [*ChicagoPublicSchools.csv*](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%205%3A%20Course%20Assignment/ChicagoPublicSchools.csv)
       - Census Data Used for Final: [*ChicagoCensusData.csv*](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%205%3A%20Course%20Assignment/ChicagoCensusData.csv)
       - Crime Data Used for Final: [*ChicagoCrimeData.csv*](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%205%3A%20Course%20Assignment/ChicagoCrimeData.csv)
+- ### Course 7: Data Analysis with Python
+    - Final Assignment: [Data Analytics for House Pricing Data Set](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%206%3A%20Final%20Assignment/Final-Assignment-1-House-Sales-in-King-County.ipynb)
+    - Final Assignment: [Data Analytics for House Pricing Data Set: WITH GRAPHS](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%206%3A%20Final%20Assignment/Final%20Assignment-2-House-Sales-in-King-County.ipynb)
+      - Housing Price Data Used for Final: [housing.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%206%3A%20Final%20Assignment/housing.csv)
 ## IBM Skills Network: My Completed Lab Projects
 - ### Course 2: Tools for Data Science
     - Week 4: Hands-On Lab: [Getting Started with Jupyter Notebooks](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/02.%20Tools%20for%20Data%20Science/Week%204%3A%20Jupyter%20Notebooks%20and%20JupyterLab/Getting_Started_with_JupyterNotebook.ipynb)
