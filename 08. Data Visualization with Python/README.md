@@ -13,5 +13,6 @@
 - Pandas
 - Jupyter Notebooks
 # Course 8 Completion Certificate:
-**Additional Info:** Please click here to verify the certificate.
-*Coming Soon...*
+**Additional Info:** Please [click here] to verify the certificate.
+# Course 8 Digital Badge:
+Please [click here] to verify the IBM digital badge.<br>
