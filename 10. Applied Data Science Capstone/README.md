@@ -1,4 +1,5 @@
 # Applied Data Science Capstone
+Course 10 of 10 in the IBM Data Science Professional Certificate
 ## Syllabus for Course 10
 *Coming Soon...*
 ## Summary of Tasks
