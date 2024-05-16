@@ -1,4 +1,5 @@
 # Databases and SQL for Data Science with Python
+Course 6 of 10 in the IBM Data Science Professional Certificate
 ## Syllabus for Course 6
 - **Week 1:** [Getting Started with SQL](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%201%3A%20Getting%20Started%20with%20SQL)
 - **Week 2:** [Introduction to Relational Databases and Tables](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Week%202%3A%20Introduction%20to%20Relational%20Databses%20and%20Tables)
