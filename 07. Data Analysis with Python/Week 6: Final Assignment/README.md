@@ -6,6 +6,7 @@
 ## Final Project
 - Final Project Scenario
 - Lab for Final Project: [Data Analytics for House Pricing Data Set](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%206%3A%20Final%20Assignment/Final-Assignment-1-House-Sales-in-King-County.ipynb)
+- Labe for Final Project: [Data Analytics for House Pricing Data Set: WITH GRAPHS](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%206%3A%20Final%20Assignment/Final%20Assignment-2-House-Sales-in-King-County.ipynb)
 - **Graded Assignment:** Submit Your Project and Review Others
 ## Final Exam
 - Cheat Sheet: [Data Analysis for Python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%206%3A%20Final%20Assignment/Python%20Cheat%20Sheet%20for%20Data%20Analysis.pdf)
