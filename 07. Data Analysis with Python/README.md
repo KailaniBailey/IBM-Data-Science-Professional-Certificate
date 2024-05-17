@@ -37,7 +37,7 @@ Course 7 of 10 in the IBM Data Science Professional Certificate
 ## Final Exam
 - Graded Assignment:
 # Course 7 Completion Certificate:
-**Additional Info:** Please click here to verify the certificate.
+**Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/7FCXFXB7NBWG) to verify the certificate.
 ![Screenshot (66)](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/627e4879-836c-4c3c-b0c2-42f08fe9bdec)
 # Course 7 Digital Badge:
 Please click here to verify the IBM digital badge.
