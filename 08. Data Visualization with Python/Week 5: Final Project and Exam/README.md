@@ -1,1 +1,2 @@
-
+# Final Project and Exam
+> The primary focus of this module is to practice the skills gained earlier in the course and then demonstrate those skills in the final assignment. For the final assignment, analyze historical automobile sales data covering periods of recession and non-recession. Bring the analysis to life using visualization techniques and then display the plots and graphs on dashboards. Finally, submit the assignment for peer review and review an assignment from a peer. To wrap up the course, take a final exam in the form of a timed quiz.
