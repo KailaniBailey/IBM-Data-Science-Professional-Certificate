@@ -6,7 +6,7 @@ Course 8 of 10 in the IBM Data Science Professional Certificate
 > You will learn hands-on by completing numerous labs and a final project to practice and apply the many aspects and techniques of Data Visualization using Jupyter Notebooks and a Cloud-based IDE. You will use several data visualization libraries in Python, including Matplotlib, Seaborn, Folium, Plotly & Dash.
 ## Syllabus for Course 8
 - Week 1: [Introduction to Data Visualization Tools](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/08.%20Data%20Visualization%20with%20Python/Week%201%3A%20Introduction%20to%20Data%20Visualization%20Tools)
-- Week 2: Basic and Specialized Visualization Tools
+- Week 2: [Basic and Specialized Visualization Tools](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/08.%20Data%20Visualization%20with%20Python/Week%202%3A%20Basic%20and%20Specialized%20Visualization%20Tools)
 - Week 3: Advanced Visualizations and Geospatial Data
 - Week 4: Creating Dashboards with Plotly and Dash
 - Week 5: Final Project and Exam
