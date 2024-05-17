@@ -1,1 +1,2 @@
-
+# Creating Dashboards with Plotly and Dash
+> Dashboards and interactive data applications are crucial tools for data visualization and analysis because they provide a consolidated view of key data and metrics in a visually appealing and understandable format. In this module, explore the benefits of dashboards and identify the different web-based dashboarding tools in Python. Learn about Plotly and discover how to use Plotly graph objects and Plotly express to create charts. Gain insight into Dash, an open-source user interface Python library, and its two components. Finally, gain a clear understanding of the callback function and determine how to connect core and HTML components using callback.
