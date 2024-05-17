@@ -33,7 +33,7 @@ Course 7 of 10 in the IBM Data Science Professional Certificate
 - Scipy
 - scikit-learn
 ## Final Assignment
-- Graded Assignment: 
+- Graded Assignment: 100%
 ## Final Exam
 - Graded Assignment: 70%
 # Course 7 Completion Certificate:
