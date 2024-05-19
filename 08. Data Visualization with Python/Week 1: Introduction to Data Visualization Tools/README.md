@@ -17,4 +17,4 @@
 - **Practice Quiz:** Introduction to Data Visualization Tools (100%)
 - Summary: Introduction to Data Visualization Tools
 - Cheat Sheet: [Data Processing Tasks in Pandas & Plot Libraries](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/08.%20Data%20Visualization%20with%20Python/Week%201%3A%20Introduction%20to%20Data%20Visualization%20Tools/Cheat-Sheet-Data-Processing-Tasks-in-Pandas.pdf)
-- **Graded Quiz:** Introduction to Data Visualization Tools
+- **Graded Quiz:** Introduction to Data Visualization Tools (90%)
