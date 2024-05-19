@@ -75,7 +75,7 @@ This repository contains select course content, relevant notes, bits of code, fi
         - Car Pricing Used for Lab: [usedcars.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%205%3A%20Model%20Evaluation%20and%20Refinement/usedcars.csv)
     - Week 5: Hands-On Lab: [Model Evaluation and Refinement - Laptop Pricing](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%205%3A%20Model%20Evaluation%20and%20Refinement/practice_model_evaluation.ipynb)
         - Laptop Pricing Used for Lab: [laptops.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%205%3A%20Model%20Evaluation%20and%20Refinement/laptops%20(1).csv)
-- ### Course 8: Data Visualizations in Python
+- ### Course 8: Data Visualization with Python
     - Week 1: Hands-On Lab: [Exploring and Processing a Dataset Using Pandas](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/08.%20Data%20Visualization%20with%20Python/Week%201%3A%20Introduction%20to%20Data%20Visualization%20Tools/DV0101EN-Exercise-Dataset-Preprocessing-Exploring-with-Pandas.ipynb)
     - Week 1: Hands-On Lab: [Introduction to Matplotlib and Line Plots](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/08.%20Data%20Visualization%20with%20Python/Week%201%3A%20Introduction%20to%20Data%20Visualization%20Tools/DV0101EN-Exercise-Introduction-to-Matplotlib-and-Line-Plots_.ipynb)
 ### Skills for Data Science<br>
