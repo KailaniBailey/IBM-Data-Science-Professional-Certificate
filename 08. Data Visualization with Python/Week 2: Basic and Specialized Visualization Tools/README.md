@@ -15,5 +15,5 @@
 - Hands-On Lab: Plotting Directly with Matplotlib
 - **Practice Quiz:** Specialized Visualization Tools
 - Summary: Basic and Specialized Visualization Tools
-- Cheat Sheet: Plotting with Matplotlib using Pandas
+- Cheat Sheet: [Plotting with Matplotlib using Pandas](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/08.%20Data%20Visualization%20with%20Python/Week%202%3A%20Basic%20and%20Specialized%20Visualization%20Tools/Cheat-Sheet-Plotting-with-Matplotlib-Using-Pandas.pdf)
 - **Graded Quiz:** Basic and Specialized Visualization Tools
