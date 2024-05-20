@@ -5,7 +5,7 @@
 - Histograms
 - Bar Charts
 - Hands-On Lab: [Area Plots, Histograms, and Bar Charts](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/08.%20Data%20Visualization%20with%20Python/Week%202%3A%20Basic%20and%20Specialized%20Visualization%20Tools/DV0101EN-Exercise-Area-Plots-Histograms-and-Bar-Charts_.ipynb)
-- **Practice Quiz:** Basic Visualization Tools
+- **Practice Quiz:** Basic Visualization Tools (80%)
 ## Specialized Visualization Tools
 - Pie Charts
 - Box Plots
