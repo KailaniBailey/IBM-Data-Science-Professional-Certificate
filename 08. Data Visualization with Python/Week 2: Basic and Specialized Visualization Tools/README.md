@@ -10,7 +10,7 @@
 - Pie Charts
 - Box Plots
 - Scatter Plots
-- Hands-On Lab: Pie Charts, Box Plots, Scatter Plots, and Bubble Plots
+- Hands-On Lab: [Pie Charts, Box Plots, Scatter Plots, and Bubble Plots](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/08.%20Data%20Visualization%20with%20Python/Week%202%3A%20Basic%20and%20Specialized%20Visualization%20Tools/DV0101EN-Exercise-Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots.ipynb)
 - Plotting Directly with Matplotlib
 - Hands-On Lab: Plotting Directly with Matplotlib
 - **Practice Quiz:** Specialized Visualization Tools
