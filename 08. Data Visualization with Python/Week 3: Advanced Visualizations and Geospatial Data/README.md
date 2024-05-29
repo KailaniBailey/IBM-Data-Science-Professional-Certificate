@@ -4,7 +4,7 @@
 - Waffle Charts & Word Cloud
 - Seaborn and Regression Plots
 - Hands-On Lab: Waffle Charts, Word Clouds, and Regression Plots
-- **Practice Quiz:** Advanced Visualization Tools
+- **Practice Quiz:** Advanced Visualization Tools (100%)
 ## Visualizing Geospatial Data
 - Introduction to Folium
 - Maps with Markers
