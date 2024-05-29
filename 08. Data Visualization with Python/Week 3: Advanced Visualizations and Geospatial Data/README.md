@@ -10,7 +10,7 @@
 - Maps with Markers
 - Choropleth Maps
 - Hands-On Lab: Creating Maps and Visualizing Geospatial Data
-- **Practice Quiz:** Visualizing Geospatial Data
+- **Practice Quiz:** Visualizing Geospatial Data (100%)
 - Summary: Advanced Visualizations and Geospatial Data
 - Cheat Sheet: [Maps, Waffles, WordCloud and Seaborn](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/08.%20Data%20Visualization%20with%20Python/Week%203%3A%20Advanced%20Visualizations%20and%20Geospatial%20Data/Cheat-Sheet-Maps-Waffles-WordCloud-and-Seaborn.pdf)
 - **Graded Quiz:** Advanced Visualizations and Geospatial Data
