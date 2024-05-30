@@ -10,7 +10,7 @@
 ## Working with Dash
 - Introduction to Dash
 - Overview of Cloud IDE Lab Environment
-- Dash Basics: HTML and Core Components
+- Hands-On Lab: Dash Basics: HTML and Core Components
 - Additional Resources for Dash
 - Make Dashboards Interactive
 - Additional Resources for Interactive Dashboards
