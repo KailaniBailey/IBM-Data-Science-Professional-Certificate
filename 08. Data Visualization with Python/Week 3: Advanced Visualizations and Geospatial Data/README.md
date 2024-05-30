@@ -3,7 +3,7 @@
 ## Advanced Visualization Tools
 - Waffle Charts & Word Cloud
 - Seaborn and Regression Plots
-- Hands-On Lab: Waffle Charts, Word Clouds, and Regression Plots
+- Hands-On Lab: [Waffle Charts, Word Clouds, and Regression Plots](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/08.%20Data%20Visualization%20with%20Python/Week%203%3A%20Advanced%20Visualizations%20and%20Geospatial%20Data/DV0101EN-Exercise-Waffle-Charts-Word-Clouds-and-Regression-Plots.ipynb)
 - **Practice Quiz:** Advanced Visualization Tools (100%)
 ## Visualizing Geospatial Data
 - Introduction to Folium
