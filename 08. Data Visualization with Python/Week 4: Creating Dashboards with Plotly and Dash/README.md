@@ -20,4 +20,4 @@
 - **Practice Quiz:** Working with Dash (100%)
 - Summary: Creating Dashboards with Plotly and Dash
 - Cheat Sheet: [Plotly and Dash](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/08.%20Data%20Visualization%20with%20Python/Week%204%3A%20Creating%20Dashboards%20with%20Plotly%20and%20Dash/Cheat-Sheet-Plotly-and-Dash.pdf)
-- **Graded Quiz:** Creating Dashboards with Plotly and Dash
+- **Graded Quiz:** Creating Dashboards with Plotly and Dash (100%)
