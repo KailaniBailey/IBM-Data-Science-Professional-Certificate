@@ -10,7 +10,8 @@
 ## Working with Dash
 - Introduction to Dash
 - Overview of Cloud IDE Lab Environment
-- Hands-On Lab: Dash Basics: HTML and Core Components
+- Hands-On Lab: [Dash Basics: HTML and Core Components](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/08.%20Data%20Visualization%20with%20Python/Week%204%3A%20Creating%20Dashboards%20with%20Plotly%20and%20Dash/Dash%20-%20HTML%20and%20Core%20Components%20Lab%20(Screenshot).png)
+    - View Screen Capture on My Twitter/X Account: [Linked @KailaniBayy](https://x.com/kailanibayy/status/1796259994750624204)
 - Additional Resources for Dash
 - Make Dashboards Interactive
 - Additional Resources for Interactive Dashboards
