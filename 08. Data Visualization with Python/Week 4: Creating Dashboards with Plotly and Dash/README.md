@@ -6,7 +6,7 @@
 - Introduction to Plotly
 - Additional Resources for Plotly
 - Hands-On Lab: Plotly Basics: Scatter, Line, Bar, Bubble, Histogram, Pie, Sunburst
-- **Practice Quiz:** Creating Dashboards with Plotly
+- **Practice Quiz:** Creating Dashboards with Plotly (100%)
 ## Working with Dash
 - Introduction to Dash
 - Overview of Cloud IDE Lab Environment
