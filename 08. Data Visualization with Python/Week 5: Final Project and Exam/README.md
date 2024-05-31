@@ -2,7 +2,7 @@
 > The primary focus of this module is to practice the skills gained earlier in the course and then demonstrate those skills in the final assignment. For the final assignment, analyze historical automobile sales data covering periods of recession and non-recession. Bring the analysis to life using visualization techniques and then display the plots and graphs on dashboards. Finally, submit the assignment for peer review and review an assignment from a peer. To wrap up the course, take a final exam in the form of a timed quiz.
 ## Practice Project
 - Practice Project Overview
-- Practice Assignment: Part 1 - Analyzing Wildfire Activities in Australia
+- Practice Assignment: [Part 1 - Analyzing Wildfire Activities in Australia](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/08.%20Data%20Visualization%20with%20Python/Week%205%3A%20Final%20Project%20and%20Exam/Practice_Assignment_Part1.ipynb)
 - Practice Assignment: Part 2 - Creating Dashboards
 ## Final Project
 - Final Project Overview
