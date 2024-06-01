@@ -11,7 +11,7 @@ By the end of this course, you will have job ready skills to add to your resume 
 - Week 1: [Introduction to Machine Learning](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/09.%20Machine%20Learning%20with%20Python/Week%201:%20Introduction%20to%20Machine%20Learning)
 - Week 2: [Regression](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/09.%20Machine%20Learning%20with%20Python/Week%202:%20Regression)
 - Week 3: [Classification](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/09.%20Machine%20Learning%20with%20Python/Week%203:%20Classification)
-- Week 4: Linear Classification
+- Week 4: [Linear Classification](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/09.%20Machine%20Learning%20with%20Python/Week%204:%20Linear%20Classification)
 - Week 5: Clustering
 - Week 6: Final Exam and Project
 ## Summary of Tasks
