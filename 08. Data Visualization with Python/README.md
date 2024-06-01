@@ -25,4 +25,5 @@ Course 8 of 10 in the IBM Data Science Professional Certificate
 **Additional Info:** Please [click here](https://coursera.org/share/f4e4df68386e4fae67af1f9661617925) to verify the certificate.
 ![IBM-8-Certificate](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/4422fe46-b4db-490e-b532-e60ce9dc475c)
 # Course 8 Digital Badge:
-Please [click here] to verify the IBM digital badge.<br>
+Please [click here](https://www.credly.com/badges/bdb458c4-0e9e-4d84-945c-ef6d73684f62/public_url) to verify the IBM digital badge.<br>
+![data-visualization-with-python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/13e07a68-57ad-4f47-9ad7-c56395c53335)
