@@ -4,6 +4,7 @@
 - Practice Project Overview
 - Practice Assignment: [Part 1 - Analyzing Wildfire Activities in Australia](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/08.%20Data%20Visualization%20with%20Python/Week%205%3A%20Final%20Project%20and%20Exam/Practice_Assignment_Part1.ipynb)
 - Practice Assignment: Part 2 - Creating Dashboards
+    - Python code for Dash: [Dash_wildfire.py](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/08.%20Data%20Visualization%20with%20Python/Week%205%3A%20Final%20Project%20and%20Exam/Dash_wildfire.py)
 ## Final Project
 - Final Project Overview
 - Final Assignment: Part 1 - Create Visualizations Using Matplotlib, Seaborn & Folium
