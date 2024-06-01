@@ -33,6 +33,9 @@ This repository contains select course content, relevant notes, bits of code, fi
     - Final Assignment: [Data Analytics for House Pricing Data Set](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%206%3A%20Final%20Assignment/Final-Assignment-1-House-Sales-in-King-County.ipynb)
     - Final Assignment: [Data Analytics for House Pricing Data Set: WITH GRAPHS](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%206%3A%20Final%20Assignment/Final%20Assignment-2-House-Sales-in-King-County.ipynb)
       - Housing Price Data Used for Final: [housing.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Week%206%3A%20Final%20Assignment/housing.csv)
+- ### Course 8: Data Visualization with Python
+    - Final Assignment: [Part 1 - Create Visualizations Using Matplotlib, Seaborn & Folium](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/08.%20Data%20Visualization%20with%20Python/Week%205%3A%20Final%20Project%20and%20Exam/DV0101EN-Final-Assign-Part1.ipynb)
+    - Final Assignment: Part 2 - Create Dashboard with Plotly and Dash 
 ## IBM Skills Network: My Completed Lab Projects
 - ### Course 2: Tools for Data Science
     - Week 4: Hands-On Lab: [Getting Started with Jupyter Notebooks](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/02.%20Tools%20for%20Data%20Science/Week%204%3A%20Jupyter%20Notebooks%20and%20JupyterLab/Getting_Started_with_JupyterNotebook.ipynb)
