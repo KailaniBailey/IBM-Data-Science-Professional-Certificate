@@ -9,6 +9,6 @@
 - Final Project Overview
 - Final Assignment: [Part 1 - Create Visualizations Using Matplotlib, Seaborn & Folium](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/08.%20Data%20Visualization%20with%20Python/Week%205%3A%20Final%20Project%20and%20Exam/DV0101EN-Final-Assign-Part1.ipynb)
 - Final Assignment: Part 2 - Create Dashboard with Plotly and Dash
-- Final Assignment: Part 3 - Submission and Grading
+- Final Assignment: Part 3 - Submission and Grading (79.17%)
 - Final Assignment: Part 3 - Submission and Grading: Peer Review
-- Final Exam: Data Visualization with Python - Timed Quiz
+- Final Exam: Data Visualization with Python - Timed Quiz (76.67%)
