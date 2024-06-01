@@ -22,4 +22,3 @@
 ## End of Module Review & Evaluation
 - **Practice Quiz:** Linear Classification
 - **Graded Quiz:** Linear Classification
-- 
