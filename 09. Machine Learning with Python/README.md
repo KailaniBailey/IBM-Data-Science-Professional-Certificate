@@ -26,5 +26,6 @@ By the end of this course, you will have job ready skills to add to your resume 
 - Deep Learning
 - Data Mining
 # Course 9 Completion Certificate:
-**Additional Info:** Please click here to verify the certificate.
-*Coming Soon...*
+**Additional Info:** Please [click here] to verify the certificate.
+# Course 9 Digital Badge:
+Please [click here] to verify the IBM digital badge.<br>
