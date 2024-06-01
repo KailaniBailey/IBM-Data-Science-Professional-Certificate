@@ -12,7 +12,7 @@ By the end of this course, you will have job ready skills to add to your resume 
 - Week 2: [Regression](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/09.%20Machine%20Learning%20with%20Python/Week%202:%20Regression)
 - Week 3: [Classification](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/09.%20Machine%20Learning%20with%20Python/Week%203:%20Classification)
 - Week 4: [Linear Classification](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/09.%20Machine%20Learning%20with%20Python/Week%204:%20Linear%20Classification)
-- Week 5: Clustering
+- Week 5: [Clustering](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/09.%20Machine%20Learning%20with%20Python/Week%205:%20Clustering)
 - Week 6: Final Exam and Project
 ## Summary of Tasks
 - Describe the various types of Maching Learning algorithms and when to use them.
