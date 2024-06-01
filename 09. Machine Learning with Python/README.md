@@ -9,7 +9,7 @@ By the end of this course, you will have job ready skills to add to your resume 
 
 ## Syllabus for Course 9
 - Week 1: [Introduction to Machine Learning](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/09.%20Machine%20Learning%20with%20Python/Week%201:%20Introduction%20to%20Machine%20Learning)
-- Week 2: Regression
+- Week 2: [Regression](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/09.%20Machine%20Learning%20with%20Python/Week%202:%20Regression)
 - Week 3: Classification
 - Week 4: Linear Classification
 - Week 5: Clustering
