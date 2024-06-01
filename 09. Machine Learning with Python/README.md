@@ -1,7 +1,12 @@
 # Machine Learning with Python
 Course 9 of 10 in the IBM Data Science Professional Certificate
 ## Syllabus for Course 9
-*Coming Soon...*
+- Week 1: Introduction to Machine Learning
+- Week 2: Regression
+- Week 3: Classification
+- Week 4: Linear Classification
+- Week 5: Clustering
+- Week 6: Final Exam and Project
 ## Summary of Tasks
 - Describe the various types of Maching Learning algorithms and when to use them.
 - Compare and contrast linear classification methods including multiclass prediction, support vector machines, and logistic regression.
