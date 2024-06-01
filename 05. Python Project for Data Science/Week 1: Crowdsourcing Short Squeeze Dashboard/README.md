@@ -3,6 +3,8 @@
 # Learning Objectives
 - Perform webscraping in Python to obtain data.
 - Extract data by using a Python library.
+## Welcome
+- Course Introduction
 ## Optional: Intro to Webscraping
 - Intro to Webscraping
 - HTML for Webscraping
