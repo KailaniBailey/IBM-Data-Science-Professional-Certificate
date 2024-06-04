@@ -16,4 +16,4 @@
 - Supervised vs. Unsupervised
 ## End of Module Review and Evaluation
 - **Practice Quiz:** Intro to Machine Learning (100%)
-- **Graded Quiz:** Intro to Machine Learning
+- **Graded Quiz:** Intro to Machine Learning (60%)
