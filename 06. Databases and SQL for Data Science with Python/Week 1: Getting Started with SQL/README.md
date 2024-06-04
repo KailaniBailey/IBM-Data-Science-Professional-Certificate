@@ -1,5 +1,10 @@
 # Getting Started with SQL
->An introduction to databases. Learn how to use basic SQL statements like SELECT, INSERT, UPDATE and DELETE. Get an understanding of how to refine query results with the WHERE clause as well as using COUNT, LIMIT and DISTINCT.
+> In this module, you will be introduced to databases. You will learn how to use basic SQL statements like SELECT, INSERT, UPDATE and DELETE. You will also get an understanding of how to refine your query results with the WHERE clause as well as using COUNT, LIMIT and DISTINCT.
+# Learning Objectives
+- Define databases and SQL
+- Write basic data retrieval queries using SELECT statement
+- Refine query results by using COUNT, DISTINCT, and LIMIT statements
+- Insert data to a table using INSERT statements and alter or remove data from a table using UPDATE and DELETE statements
 ## Basic SQL
 - Introduction to Databases
 - SELECT Statement
