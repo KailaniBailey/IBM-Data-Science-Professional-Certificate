@@ -13,7 +13,7 @@
 - Model Evaluation in Regression Models
 - Evaluation Metrics in Regression Models
 - Errata for "Evaluation Matrix in Regression Model" Video
-- Hands-On Lab: Simple Linear Regression
+- Hands-On Lab: [Simple Linear Regression](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Week%202%3A%20Regression/ML0101EN-Reg-Simple-Linear-Regression-Co2.ipynb)
 - Multiple Linear Regression
 - Hands-On Lab: Multiple Linear Regression
 - Errata: Simple Linear Regression Video
