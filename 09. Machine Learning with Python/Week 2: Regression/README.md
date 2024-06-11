@@ -21,5 +21,5 @@
 - Errata: Simple Linear Regression Video
 - Errata: Multiple Linear Regression Video
 ## End of Module Review & Evaluation
-- **Practice Quiz:** Regression
+- **Practice Quiz:** Regression (100%)
 - **Graded Quiz:** Regression
