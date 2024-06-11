@@ -90,7 +90,9 @@ This repository contains select course content, relevant notes, bits of code, fi
         - View Screen Capture on My Twitter/X Account: [Linked @KailaniBayy](https://x.com/kailanibayy/status/1796259994750624204)
 - ### Course 9: Machine Learning with Python
     - Week 2: Hands-On Lab: [Simple Linear Regression](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Week%202%3A%20Regression/ML0101EN-Reg-Simple-Linear-Regression-Co2.ipynb)
+        - Vehicle Data Used for Lab: [FuelConsumption.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Week%202%3A%20Regression/FuelConsumption.csv)
     - Week 2: Hands-On Lab: [Multiple Linear Regression](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Week%202%3A%20Regression/ML0101EN-Reg-Mulitple-Linear-Regression-Co2.ipynb)
+        - Vehicle Data Used for Lab: [FuelConsumption.csv](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Week%202%3A%20Regression/FuelConsumption.csv)
 ### Skills for Data Science<br>
 The following skills are developed in this professional certificate program:
 - Import and clean data sets
