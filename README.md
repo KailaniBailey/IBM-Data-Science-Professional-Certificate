@@ -88,6 +88,9 @@ This repository contains select course content, relevant notes, bits of code, fi
     - Week 3: Hands-On Lab: [Creating Maps and Visualizing Geospatial Data](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/08.%20Data%20Visualization%20with%20Python/Week%203%3A%20Advanced%20Visualizations%20and%20Geospatial%20Data/DV0101EN-Exercise-Creating-maps-visualizing-geospat%20(1).ipynb)
     - Week 4: Hands-On Lab: [Dash Basics: HTML and Core Components](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/08.%20Data%20Visualization%20with%20Python/Week%204%3A%20Creating%20Dashboards%20with%20Plotly%20and%20Dash/Dash%20-%20HTML%20and%20Core%20Components%20Lab%20(Screenshot).png)
         - View Screen Capture on My Twitter/X Account: [Linked @KailaniBayy](https://x.com/kailanibayy/status/1796259994750624204)
+- ### Course 9: Machine Learning with Python
+    - Week 2: Hands-On Lab: [Simple Linear Regression](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Week%202%3A%20Regression/ML0101EN-Reg-Simple-Linear-Regression-Co2.ipynb)
+    - Week 2: Hands-On Lab: [Multiple Linear Regression](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Week%202%3A%20Regression/ML0101EN-Reg-Mulitple-Linear-Regression-Co2.ipynb)
 ### Skills for Data Science<br>
 The following skills are developed in this professional certificate program:
 - Import and clean data sets
