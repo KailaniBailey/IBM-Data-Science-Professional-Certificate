@@ -12,7 +12,7 @@
 - Introduction to Classification
 - K-Nearest Neighbors
 - Evaluation Metrics in Classification
-- Hands-On Lab: KNN
+- Hands-On Lab: [KNN](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Week%203%3A%20Classification/ML0101EN-Clas-K-Nearest-neighbors-CustCat.ipynb)
 ## Decision Trees
 - Introduction to Decision Trees
 - Building Decision Trees
