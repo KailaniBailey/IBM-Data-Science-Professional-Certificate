@@ -16,7 +16,7 @@
 ## Decision Trees
 - Introduction to Decision Trees
 - Building Decision Trees
-- Hands-On Lab: Decision Trees
+- Hands-On Lab: [Decision Trees](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Week%203%3A%20Classification/ML0101EN-Clas-Decision-Trees-drug.ipynb)
 - Hands-On Lab: Faster Credit Card Fraud Detection Using Snap ML (Optional)
 ## Regression Trees (Optional)
 - Regression Trees
