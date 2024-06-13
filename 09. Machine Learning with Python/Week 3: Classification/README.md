@@ -23,5 +23,5 @@
 - Hands-On Lab: Regression Trees
 - Hands-On Lab: Faster Taxi Tip Prediction Using Snap ML (Optional)
 ## End of Module Review & Evaluation
-- **Practice Quiz:** Classification
+- **Practice Quiz:** Classification (100%)
 - **Graded Quiz:** Classification
