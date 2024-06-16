@@ -20,7 +20,7 @@
 - Hands-On Lab: [Faster Credit Card Fraud Detection Using Snap ML](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Week%203%3A%20Classification/classification_tree_svm.ipynb)
 ## Regression Trees (Optional)
 - Regression Trees
-- Hands-On Lab: Regression Trees
+- Hands-On Lab: [Regression Trees](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Week%203%3A%20Classification/Regression_Trees.ipynb)
 - Hands-On Lab: Faster Taxi Tip Prediction Using Snap ML (Optional)
 ## End of Module Review & Evaluation
 - **Practice Quiz:** Classification (100%)
