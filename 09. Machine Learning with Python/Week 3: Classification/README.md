@@ -24,4 +24,4 @@
 - Hands-On Lab: [Faster Taxi Tip Prediction Using Snap ML](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Week%203%3A%20Classification/Regression_Trees_SnapML.ipynb)
 ## End of Module Review & Evaluation
 - **Practice Quiz:** Classification (100%)
-- **Graded Quiz:** Classification
+- **Graded Quiz:** Classification (80%)
