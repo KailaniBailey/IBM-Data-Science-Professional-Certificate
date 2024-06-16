@@ -12,7 +12,7 @@
 - Intro to Logistic Regression
 - Logistic Regression vs. Linear Regression
 - Logistic Regression Training
-- Hands-On Lab: Logistic Regression
+- Hands-On Lab: [Logistic Regression](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Week%204%3A%20Linear%20Classification/ML0101EN-Clas-Logistic-Reg-churn.ipynb)
 ## Support Vector Machine
 - Support Vector Machine
 - Hands-On Lab: SVM (Support Vector Machines)
