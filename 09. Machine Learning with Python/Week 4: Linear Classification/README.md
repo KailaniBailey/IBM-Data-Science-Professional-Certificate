@@ -18,7 +18,7 @@
 - Hands-On Lab: [SVM (Support Vector Machines)](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Week%204%3A%20Linear%20Classification/ML0101EN-Clas-SVM-cancer.ipynb)
 ## Multiclass Prediction
 - Multiclass Prediction
-- Hands-On Lab: Multiclass Prediction
+- Hands-On Lab: [Multiclass Prediction](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Week%204%3A%20Linear%20Classification/Multi-class_Classification.ipynb)
 ## End of Module Review & Evaluation
 - **Practice Quiz:** Linear Classification
 - **Graded Quiz:** Linear Classification
