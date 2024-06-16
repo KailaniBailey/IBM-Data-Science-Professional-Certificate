@@ -22,4 +22,4 @@
 - Errata: Multiple Linear Regression Video
 ## End of Module Review & Evaluation
 - **Practice Quiz:** Regression (100%)
-- **Graded Quiz:** Regression
+- **Graded Quiz:** Regression (60%)
