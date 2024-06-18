@@ -20,5 +20,5 @@
 - Multiclass Prediction
 - Hands-On Lab: [Multiclass Prediction](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Week%204%3A%20Linear%20Classification/Multi-class_Classification.ipynb)
 ## End of Module Review & Evaluation
-- **Practice Quiz:** Linear Classification
+- **Practice Quiz:** Linear Classification (100%)
 - **Graded Quiz:** Linear Classification
