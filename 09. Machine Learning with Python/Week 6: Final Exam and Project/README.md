@@ -9,7 +9,7 @@
 - Share your notebook and complete a project report.
 - Evaluate the projects of your peers to provide a project grade.
 ## Final Exam
-**Graded Quiz:** Final Exam
+**Graded Quiz:** Final Exam (80%)
 ## Optional Honors Content: Final Project
 - Project Scenario
 - Hands-On Lab: Prediction in Australia
