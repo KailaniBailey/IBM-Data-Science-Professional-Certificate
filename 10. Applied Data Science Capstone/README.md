@@ -1,7 +1,11 @@
 # Applied Data Science Capstone
 Course 10 of 10 in the IBM Data Science Professional Certificate
 ## Syllabus for Course 10
-*Coming Soon...*
+- Week 1: Introduction
+- Week 2: Exploratory Data Analysis (EDA)
+- Week 3: Interactive Visual Analytics and Dashboard
+- Week 4: Predictive Analysis (Classification)
+- Week 5: Present Your Data-Driven Insights
 ## Summary of Tasks
 - Demonstrate proficiency in data science and machine learning techniques using a real-world data set and prepare a report for stakeholders.
 - Apply skills to perform data collection, data wrangling, exploratory data analysis, data visualization model development, and model evaluation.
