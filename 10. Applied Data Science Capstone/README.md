@@ -7,7 +7,7 @@ Course 10 of 10 in the IBM Data Science Professional Certificate
 > In this course, there will not be much new learning, instead you’ll focus on hands-on work to demonstrate and apply what you have learnt in previous courses.  By successfully completing this Capstone you will have added a project to your data science and machine learning portfolio to showcase to employers.
 ## Syllabus for Course 10
 - Week 1: [Introduction](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone/Week%201:%20Introduction)
-- Week 2: Exploratory Data Analysis (EDA)
+- Week 2: [Exploratory Data Analysis (EDA)](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone/Week%202:%20Exploratory%20Data%20Analysis%20(EDA))
 - Week 3: Interactive Visual Analytics and Dashboard
 - Week 4: Predictive Analysis (Classification)
 - Week 5: Present Your Data-Driven Insights
