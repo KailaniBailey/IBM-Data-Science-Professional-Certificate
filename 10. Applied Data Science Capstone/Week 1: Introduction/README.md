@@ -15,10 +15,10 @@
 - Data Collection Overview
 - Hands-On Lab: Complete the Data Collection API Lab
 - Hands-On Lab: Complete the Data Collection with Web Scraping Lab
-- Check Points: Data Collection API
+- **Practice Quiz:** Check Points: Data Collection API
 - **Graded Quiz:** Data Collection API with Web Scraping
 ## Data Wrangling
 - Data Wrangling Overview
 - Hands-On Lab: Data Wrangling
-- Check Points: Data Wrangling
+- **Practice Quiz:** Check Points: Data Wrangling
 - **Graded Quiz:** Data Wrangling Quiz
