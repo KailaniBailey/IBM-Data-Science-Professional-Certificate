@@ -18,5 +18,8 @@ Course 10 of 10 in the IBM Data Science Professional Certificate
 - Methodology
 - Data Mining
 # Course 10 Completion Certificate:
-**Additional Info:** Please click here to verify the certificate.
+**Additional Info:** Please [click here] to verify the certificate. <br>
+*Coming Soon...*
+# Course 10 Digital Badge:
+Please [click here] to verify the IBM digital badge.<br>
 *Coming Soon...*
