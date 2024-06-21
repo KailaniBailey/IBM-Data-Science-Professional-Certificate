@@ -10,7 +10,7 @@ Course 10 of 10 in the IBM Data Science Professional Certificate
 - Week 2: [Exploratory Data Analysis (EDA)](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone/Week%202:%20Exploratory%20Data%20Analysis%20(EDA))
 - Week 3: [Interactive Visual Analytics and Dashboard](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone/Week%203:%20Interactive%20Visual%20Analytics%20and%20Dashboard)
 - Week 4: [Predictive Analysis (Classification)](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone/Week%204:%20Predictive%20Analysis%20(Classification))
-- Week 5: Present Your Data-Driven Insights
+- Week 5: [Present Your Data-Driven Insights](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone/Week%205:%20Present%20Your%20Data-Driven%20Insights)
 ## Summary of Tasks
 - Demonstrate proficiency in data science and machine learning techniques using a real-world data set and prepare a report for stakeholders.
 - Apply skills to perform data collection, data wrangling, exploratory data analysis, data visualization model development, and model evaluation.
