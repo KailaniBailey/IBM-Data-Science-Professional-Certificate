@@ -6,7 +6,7 @@ Course 10 of 10 in the IBM Data Science Professional Certificate
 > You will be tasked with predicting if the first stage of the SpaceX Falcon 9 rocket will land successfully. With the help of your Data Science findings and models, the competing startup you have been hired by can make more informed bids against SpaceX for a rocket launch. <br><br>
 > In this course, there will not be much new learning, instead you’ll focus on hands-on work to demonstrate and apply what you have learnt in previous courses.  By successfully completing this Capstone you will have added a project to your data science and machine learning portfolio to showcase to employers.
 ## Syllabus for Course 10
-- Week 1: Introduction
+- Week 1: [Introduction](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone/Week%201:%20Introduction)
 - Week 2: Exploratory Data Analysis (EDA)
 - Week 3: Interactive Visual Analytics and Dashboard
 - Week 4: Predictive Analysis (Classification)
