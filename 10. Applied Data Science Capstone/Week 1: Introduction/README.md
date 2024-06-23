@@ -13,7 +13,7 @@
 - Getting Started with GitHub
 ## Collecting the Data
 - Data Collection Overview
-- Hands-On Lab: Complete the Data Collection API Lab
+- Hands-On Lab: [Complete the Data Collection API Lab](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/10.%20Applied%20Data%20Science%20Capstone/Week%201%3A%20Introduction/jupyter-labs-spacex-data-collection-api.ipynb)
 - Hands-On Lab: Complete the Data Collection with Web Scraping Lab
 - **Practice Quiz:** Check Points: Data Collection API
 - **Graded Quiz:** Data Collection API with Web Scraping
