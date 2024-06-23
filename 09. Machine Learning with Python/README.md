@@ -29,4 +29,6 @@ By the end of this course, you will have job ready skills to add to your resume 
 **Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/RVD6QSFZCA4H) to verify the certificate.
 ![course9](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/1db49776-5ba6-4669-a555-032f6b4b6c89) <br>
 # Course 9 Digital Badge:
-Please [click here] to verify the IBM digital badge.<br>
+Please [click here](https://www.credly.com/badges/1e9674e6-3ec4-4c88-a975-a0c5a6a0eb54/public_url) to verify the IBM digital badge.<br>
+![machine-learning-with-python](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/176bab9c-d675-45c9-986f-83ffb0e4910f)
+
