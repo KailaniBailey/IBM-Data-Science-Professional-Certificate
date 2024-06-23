@@ -5,3 +5,8 @@
 - Train different classification models
 - Optimize the Hyperparameter grid search
 - Utilize your machine learning skills to build a predictive model to help a business function more efficiently
+## Assignments
+- Predictive Analysis Overview
+- Hands-On Lab: Complete the Machine Learning Prediction Lab
+- **Practice Quiz:** Check Points: Predictive Analysis
+- **Graded Quiz:** Predictive Analysis
