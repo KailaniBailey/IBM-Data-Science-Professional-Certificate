@@ -7,7 +7,7 @@
 - Utilize your data visualization skills to visualize the data and extract meaningful patterns to guide the modeling process
 ## Exploratory Analysis Using SQL
 - Exploratory Data Analysis Overview
-- Hands-On Lab: Complete the EDA with SQL
+- Hands-On Lab: [Complete the EDA with SQL](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/10.%20Applied%20Data%20Science%20Capstone/Week%202%3A%20Exploratory%20Data%20Analysis%20(EDA)/jupyter-labs-eda-sql-coursera_sqllite.ipynb)
 - **Practice Quiz:** Check Points: Exploratory Analysis Using SQL
 - **Graded Quiz:** Exploratory Data Analysis Using SQL
 ## Exploratory Analysis Using Pandas and Matplotlib
