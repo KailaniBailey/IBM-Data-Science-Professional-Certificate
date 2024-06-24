@@ -21,4 +21,4 @@
 - Data Wrangling Overview
 - Hands-On Lab: [Data Wrangling](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/10.%20Applied%20Data%20Science%20Capstone/Week%201%3A%20Introduction/labs-jupyter-spacex-Data%20wrangling.ipynb)
 - **Practice Quiz:** Check Points: Data Wrangling (100%)
-- **Graded Quiz:** Data Wrangling Quiz
+- **Graded Quiz:** Data Wrangling Quiz (75%)
