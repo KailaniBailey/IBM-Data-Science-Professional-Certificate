@@ -16,7 +16,7 @@
 - Hands-On Lab: [Complete the Data Collection API Lab](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/10.%20Applied%20Data%20Science%20Capstone/Week%201%3A%20Introduction/jupyter-labs-spacex-data-collection-api.ipynb)
 - Hands-On Lab: [Complete the Data Collection with Web Scraping Lab](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/10.%20Applied%20Data%20Science%20Capstone/Week%201%3A%20Introduction/jupyter-labs-webscraping.ipynb)
 - **Practice Quiz:** Check Points: Data Collection API (100%)
-- **Graded Quiz:** Data Collection API with Web Scraping
+- **Graded Quiz:** Data Collection API with Web Scraping (100%)
 ## Data Wrangling
 - Data Wrangling Overview
 - Hands-On Lab: Data Wrangling
