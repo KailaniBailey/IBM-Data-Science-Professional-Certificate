@@ -17,7 +17,16 @@ Course 11 of 12 in the IBM Data Science Professional Certificate
 - Week 2: [Use of Generative AI for Data Science](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/11.%20Generative%20AI:%20Elevate%20Your%20Data%20Science%20Career/Week%202:%20Use%20of%20Generative%20AI%20for%20Data%20Science/README.md)
 - Week 3: [Final Project and Exam](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/11.%20Generative%20AI:%20Elevate%20Your%20Data%20Science%20Career/Week%203:%20Final%20Project%20and%20Exam)
 ## Summary of Tasks
+- Leveraging Generative AI tools, like GPT 3.5, ChatCSV, and tomat.ai, available to Data Scientists for querying and preparing data
+- Practice Generative AI skills in Hands-On-Labs and projects by generating and augmenting datasets for specific use cases
+- Examine real-world scenarios where Generative AI can enhance data science workflows
+- Apply Generative AI techniques in the development and refinement of machine learning models
 ## Skills Developed
+- Generative AI
+- Querying Databases
+- Data Generation
+- Data Analysis
+- Data Science
 # Course 11 Completion Certificate:
 **Additional Info:** Please [click here] to verify the certificate. <br>
 *Coming Soon...*
