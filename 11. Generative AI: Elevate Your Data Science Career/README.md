@@ -13,7 +13,7 @@ Course 11 of 12 in the IBM Data Science Professional Certificate
 >
 > Then complete your final quiz to earn your certificate. You can share both your project and certificate with your current or prospective employers.
 ## Syllabus for Course 11
-- Week 1: Data Science and Generative AI
+- Week 1: [Data Science and Generative AI](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/11.%20Generative%20AI:%20Elevate%20Your%20Data%20Science%20Career/Week%201:%20Data%20Science%20and%20Generative%20AI/README.md)
 - Week 2: Use of Generative AI for Data Science
 - Week 3: Final Project and Exam
 ## Summary of Tasks
