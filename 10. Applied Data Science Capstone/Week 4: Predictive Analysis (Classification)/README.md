@@ -8,5 +8,5 @@
 ## Assignments
 - Predictive Analysis Overview
 - Hands-On Lab: Complete the Machine Learning Prediction Lab
-- **Practice Quiz:** Check Points: Predictive Analysis
+- **Practice Quiz:** Check Points: Predictive Analysis (100%)
 - **Graded Quiz:** Predictive Analysis
