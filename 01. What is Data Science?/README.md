@@ -1,5 +1,5 @@
 # What is Data Science?
-Course 1 of 10 in the IBM Data Science Professional Certificate
+Course 1 of 12 in the IBM Data Science Professional Certificate
 ## About This Course
 > " Do you want to know why data science has been labeled the sexiest profession of the 21st century? After taking this course, you will be able to answer this question, understand what data science is and what data scientists do, and learn about career paths in the field.<br><br>
 > The art of uncovering insights and trends in data has been around since ancient times. The ancient Egyptians used census data to increase efficiency in tax collection and accurately predicted the Nile River's flooding every year. Since then, people have continued to use data to derive insights and predict outcomes. Recently, they have carved out a unique and distinct field for the work they do. This field is data science.<br><br>
