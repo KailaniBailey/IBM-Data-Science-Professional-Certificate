@@ -20,3 +20,5 @@ Course 11 of 12 in the IBM Data Science Professional Certificate
 **Additional Info:** Please [click here] to verify the certificate. <br>
 *Coming Soon...*
 # Course 11 Digital Badge
+Please [click here] to verify the IBM digital badge. <br>
+*Coming Soon...*
