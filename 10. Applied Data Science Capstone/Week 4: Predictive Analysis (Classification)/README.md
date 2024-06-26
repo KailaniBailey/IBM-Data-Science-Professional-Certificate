@@ -9,4 +9,4 @@
 - Predictive Analysis Overview
 - Hands-On Lab: Complete the Machine Learning Prediction Lab
 - **Practice Quiz:** Check Points: Predictive Analysis (100%)
-- **Graded Quiz:** Predictive Analysis
+- **Graded Quiz:** Predictive Analysis (100%)
