@@ -12,8 +12,10 @@ Course 11 of 12 in the IBM Data Science Professional Certificate
 > Demonstrate your new generative AI skills in a hands-on data augmentation and feature engineering project that you can apply in your real-life profession.
 >
 > Then complete your final quiz to earn your certificate. You can share both your project and certificate with your current or prospective employers.
-
 ## Syllabus for Course 11
+- Week 1: Data Science and Generative AI
+- Week 2: Use of Generative AI for Data Science
+- Week 3: Final Project and Exam
 ## Summary of Tasks
 ## Skills Developed
 # Course 11 Completion Certificate:
