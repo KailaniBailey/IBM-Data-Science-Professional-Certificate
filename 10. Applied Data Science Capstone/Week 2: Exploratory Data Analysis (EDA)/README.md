@@ -13,4 +13,4 @@
 ## Exploratory Analysis Using Pandas and Matplotlib
 - Hands-On Lab: [EDA with Visualization Lab](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/10.%20Applied%20Data%20Science%20Capstone/Week%202%3A%20Exploratory%20Data%20Analysis%20(EDA)/edadataviz.ipynb)
 - **Practice Quiz:** Check Points: Complete the EDA with Visualization (100%)
-- **Graded Quiz:** Exploratory Data Analysis for Data Visualization
+- **Graded Quiz:** Exploratory Data Analysis for Data Visualization (66.66%)
