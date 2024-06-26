@@ -8,3 +8,6 @@ Course 12 of 12 in the IBM Data Science Professional Certificate
 > The course doesn’t stop there, however. You will also get inside tips and steps you can use to perform professionally and effectively at interviews. You will learn how to approach a code challenge and get to practice completing them. Additionally, it provides guidance about the regular functions and tasks of data scientists, as well as the opportunities of the profession and some options for career development.
 >
 > Let seasoned professionals share their experience to help you get ahead and land the job you want!
+## Syllabus for Course 12
+## Summary of Tasks
+## Skills Developed
