@@ -6,3 +6,31 @@
 - Discuss the strengths and applications of the four common generative AI models.
 - Explain how to leverage generative AI in the data science lifecycle.
 - Discuss data preparation and querying challenges and how generative AI models can help tackle them.
+## Welcome
+- Course Introduction
+- Course Syllabus and Prerequisites
+- Helpful Tips for Course Completion
+## Generative AI in Data Science
+- Generative AI and Data Science
+- Reading: Generative AI Tools for Data Scientists
+- Generative AI's Impact Across Industries
+- Leveraging Generative AI in Data Science Lifecycle
+- Types of Generative AI Models
+- Reading: Guide to Choosing a Generative AI Model Type
+- Case Study: Successful Implementation of Generative AI
+- Hands-On Lab: Explore a Simple Generative Tool
+- Lesson 1: Generative AI in Data Science
+## Generative AI for Data Preparation and Querying
+- Demo: Generative AI for Data Generation and Augmentation
+- Hands-On Lab: Generative AI for Data Generation and Augmentation
+- Generative AI for Data Preparation and Data Querying
+- Demo: Generative AI for Data Preparation
+- Hands-On Lab: Generative AI for Data Preparation
+- Demo: Generative AI for Querying Databases
+- Hands-On Lab: Generative AI for Querying Databases
+- Lesson 2: Generative AI for Data Preparation and Querying
+## Module Summary and Quiz
+- Module 1 Summary: Data Science and Generative AI
+- Module 1 Cheat Sheet: Data Science and Generative AI
+- **Graded Quiz:** Module 1: Data Science and Generative AI
+- [Optional] Leveraging Generative AI in Data Science
