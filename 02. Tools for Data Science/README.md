@@ -1,5 +1,5 @@
 # Tools for Data Science
-Course 2 of 10 in the IBM Data Science Professional Certificate
+Course 2 of 12 in the IBM Data Science Professional Certificate
 ## About This Course
 > "In order to be successful in Data Science, you need to be skilled with using tools that Data Science professionals employ as part of their jobs. This course teaches you about the popular tools in Data Science and how to use them.<br><br>
 > You will become familiar with the Data Scientist’s tool kit which includes: Libraries & Packages, Data Sets, Machine Learning Models, Kernels, as well as the various Open source, commercial, Big Data and Cloud-based tools.<br><br>
