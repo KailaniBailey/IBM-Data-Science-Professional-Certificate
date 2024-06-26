@@ -1,4 +1,5 @@
 # Generative AI: Elevate Your Data Science Career
+Course 11 of 12 in the IBM Data Science Professional Certificate
 # About This Course
 > Generative AI is now mainstream. Boost your career with a course that features leading-edge, in-demand, generative AI skills tuned to the needs of data scientists.
 > 
