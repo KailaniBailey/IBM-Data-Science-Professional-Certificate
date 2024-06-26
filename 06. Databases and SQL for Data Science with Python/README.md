@@ -1,5 +1,5 @@
 # Databases and SQL for Data Science with Python
-Course 6 of 10 in the IBM Data Science Professional Certificate
+Course 6 of 12 in the IBM Data Science Professional Certificate
 ## About This Course
 > "Working knowledge of SQL (or Structured Query Language) is a must for data professionals like Data Scientists, Data Analysts and Data Engineers. Much of the world's data resides in databases. SQL is a powerful language used for communicating with and extracting data from databases.<Br><Br>
 > In this course you will learn SQL inside out- from the very basics of Select statements to
