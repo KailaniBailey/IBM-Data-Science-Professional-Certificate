@@ -1,5 +1,5 @@
 # Machine Learning with Python
-Course 9 of 10 in the IBM Data Science Professional Certificate
+Course 9 of 12 in the IBM Data Science Professional Certificate
 ## About This Course
 > Get ready to dive into the world of Machine Learning (ML) by using Python! This course is for you whether you want to advance your Data Science career or get started in Machine Learning and Deep Learning.<br><br>
 This course will begin with a gentle introduction to Machine Learning and what it is, with topics like supervised vs unsupervised learning, linear & non-linear regression, simple regression and more.<br><br>
