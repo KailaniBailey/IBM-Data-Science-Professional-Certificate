@@ -17,4 +17,6 @@ Course 11 of 12 in the IBM Data Science Professional Certificate
 ## Summary of Tasks
 ## Skills Developed
 # Course 11 Completion Certificate:
+**Additional Info:** Please [click here] to verify the certificate. <br>
+*Coming Soon...*
 # Course 11 Digital Badge
