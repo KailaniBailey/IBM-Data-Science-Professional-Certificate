@@ -24,5 +24,7 @@ Course 12 of 12 in the IBM Data Science Professional Certificate
 - Resume Building
 # Course 12 Completion Certificate:
 **Additional Info:** Please [click here] to verify the certificate. <br>
-Coming Soon...
+*Coming Soon...*
 # Course 12 Digital Badge:
+Please [click here] to verify the IBM digital badge. <br>
+*Coming Soon...*
