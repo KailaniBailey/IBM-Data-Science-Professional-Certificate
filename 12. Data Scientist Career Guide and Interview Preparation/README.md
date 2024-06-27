@@ -11,7 +11,7 @@ Course 12 of 12 in the IBM Data Science Professional Certificate
 ## Syllabus for Course 12
 - Week 1: [Building a Foundation](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/12.%20Data%20Scientist%20Career%20Guide%20and%20Interview%20Preparation/Week%201:%20Building%20a%20Foundation)
 - Week 2: [Applying and Preparing to Interview](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/12.%20Data%20Scientist%20Career%20Guide%20and%20Interview%20Preparation/Week%202%3A%20Applying%20and%20Preparing%20to%20Interview)
-- Week 3: Interviewing
+- Week 3: [Interviewing](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/12.%20Data%20Scientist%20Career%20Guide%20and%20Interview%20Preparation/Week%203:%20Interviewing)
 ## Summary of Tasks
 - Describe the role of a Data Scientist and some career path options as well as the prospective opportunities in the field.
 - Summarize what a candidate can expect during a typical job interview cycle, different types of interviews, and how to prepare for interviews.
