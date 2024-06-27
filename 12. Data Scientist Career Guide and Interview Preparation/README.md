@@ -9,7 +9,7 @@ Course 12 of 12 in the IBM Data Science Professional Certificate
 >
 > Let seasoned professionals share their experience to help you get ahead and land the job you want!
 ## Syllabus for Course 12
-- Week 1: Building a Foundation
+- Week 1: [Building a Foundation](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/12.%20Data%20Scientist%20Career%20Guide%20and%20Interview%20Preparation/Week%201:%20Building%20a%20Foundation)
 - Week 2: Applying and Preparing to Interview
 - Week 3: Interviewing
 ## Summary of Tasks
