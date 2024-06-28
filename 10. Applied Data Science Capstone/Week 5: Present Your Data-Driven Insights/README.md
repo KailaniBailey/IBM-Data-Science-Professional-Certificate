@@ -9,7 +9,7 @@
 - Reading: Structure of a Report
 - Best Practices for Presenting Your Findings
 - Hands-On Lab: Getting Started with PowerPoint for the Web
-- Hands-On Lab: Basics of PowerPoint
+- Hands-On Lab: [Basics of PowerPoint](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/10.%20Applied%20Data%20Science%20Capstone/Week%205%3A%20Present%20Your%20Data-Driven%20Insights/PowerPointLab.pdf)
 - Hands-On Lab: Save Your PowerPoint Presentation as PDF
 ## Final Presentation
 - Submission Overview and Instructions
