@@ -12,7 +12,7 @@
 - Helpful Tips for Course Completion
 ## Generative AI in Data Science
 - Generative AI and Data Science
-- Reading: Generative AI Tools for Data Scientists
+- Reading: [Generative AI Tools for Data Scientists](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/11.%20Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career/Week%201%3A%20Data%20Science%20and%20Generative%20AI/Generative-AI-Tools-for-Data-Scientists.pdf)
 - Generative AI's Impact Across Industries
 - Leveraging Generative AI in Data Science Lifecycle
 - Types of Generative AI Models
