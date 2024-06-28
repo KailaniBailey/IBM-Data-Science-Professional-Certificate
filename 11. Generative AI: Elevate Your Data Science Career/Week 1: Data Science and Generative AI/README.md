@@ -19,7 +19,7 @@
 - Reading: Guide to Choosing a Generative AI Model Type
 - Case Study: Successful Implementation of Generative AI
 - Hands-On Lab: Explore a Simple Generative Tool
-- Lesson 1: Generative AI in Data Science
+- Lesson 1: Generative AI in Data Science (100%)
 ## Generative AI for Data Preparation and Querying
 - Demo: Generative AI for Data Generation and Augmentation
 - Hands-On Lab: Generative AI for Data Generation and Augmentation
