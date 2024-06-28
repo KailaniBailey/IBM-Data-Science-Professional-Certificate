@@ -8,9 +8,9 @@
 - Elements of a Successful Data Findings Report
 - Reading: Structure of a Report
 - Best Practices for Presenting Your Findings
-- Hands-On Lab: Getting Started with PowerPoint for the Web
+- Hands-On Lab: [Getting Started with PowerPoint for the Web](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/10.%20Applied%20Data%20Science%20Capstone/Week%205%3A%20Present%20Your%20Data-Driven%20Insights/PowerPointLab.pdf)
 - Hands-On Lab: [Basics of PowerPoint](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/10.%20Applied%20Data%20Science%20Capstone/Week%205%3A%20Present%20Your%20Data-Driven%20Insights/PowerPointLab.pdf)
-- Hands-On Lab: Save Your PowerPoint Presentation as PDF
+- Hands-On Lab: [Save Your PowerPoint Presentation as PDF](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/10.%20Applied%20Data%20Science%20Capstone/Week%205%3A%20Present%20Your%20Data-Driven%20Insights/PowerPointLab.pdf)
 ## Final Presentation
 - Submission Overview and Instructions
 - Exercise: Preparing Your Presentation (with provided slide template)
