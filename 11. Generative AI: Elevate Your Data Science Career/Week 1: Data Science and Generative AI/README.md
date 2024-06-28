@@ -28,7 +28,7 @@
 - Hands-On Lab: Generative AI for Data Preparation
 - Demo: Generative AI for Querying Databases
 - Hands-On Lab: Generative AI for Querying Databases
-- Lesson 2: Generative AI for Data Preparation and Querying
+- Lesson 2: Generative AI for Data Preparation and Querying (80%)
 ## Module Summary and Quiz
 - Module 1 Summary: Data Science and Generative AI
 - Module 1 Cheat Sheet: Data Science and Generative AI
