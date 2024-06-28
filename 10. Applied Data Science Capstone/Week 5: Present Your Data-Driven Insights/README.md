@@ -14,5 +14,5 @@
 ## Final Presentation
 - Submission Overview and Instructions
 - Exercise: Preparing Your Presentation (with provided slide template)
-- **Graded Assignment:** Peer Review: Submit Your Work and Review Your Peers
+- **Graded Assignment:** Peer Review: [Submit Your Work and Review Your Peers](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/10.%20Applied%20Data%20Science%20Capstone/Week%205%3A%20Present%20Your%20Data-Driven%20Insights/KailaniBailey-IBM-DS-CapstoneProject.pdf)
 - Peer Review: Submit Your Work and Review Your Peers
