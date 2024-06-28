@@ -27,4 +27,5 @@ Course 10 of 12 in the IBM Data Science Professional Certificate
 ![Course](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/caed6e62-cf3a-4aef-8472-203b67a78654)
 # Course 10 Digital Badge:
 Please [click here] to verify the IBM digital badge.<br>
-*Coming Soon...*
+![applied-data-science-capstone 1](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/2e5bbd0f-5745-4ee9-bef1-522d97ed03b6)
+
