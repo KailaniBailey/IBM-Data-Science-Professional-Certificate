@@ -16,7 +16,7 @@
 - Generative AI's Impact Across Industries
 - Leveraging Generative AI in Data Science Lifecycle
 - Types of Generative AI Models
-- Reading: Guide to Choosing a Generative AI Model Type
+- Reading: [Guide to Choosing a Generative AI Model Type](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/11.%20Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career/Week%201%3A%20Data%20Science%20and%20Generative%20AI/Guide-to-Choosing-Generative-AI-Model-Type.pdf)
 - Case Study: Successful Implementation of Generative AI
 - Hands-On Lab: Explore a Simple Generative Tool
 - Lesson 1: Generative AI in Data Science (100%)
