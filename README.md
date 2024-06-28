@@ -103,6 +103,7 @@ This repository contains select course content, relevant notes, bits of code, fi
     - Week 4: Hands-On Lab: [Logistic Regression](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Week%204%3A%20Linear%20Classification/ML0101EN-Clas-Logistic-Reg-churn.ipynb)
     - Week 4: Hands-On Lab: [SVM (Support Vector Machines)](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Week%204%3A%20Linear%20Classification/ML0101EN-Clas-SVM-cancer.ipynb)
     - Week 4: Hands-On Lab: [Multiclass Prediction](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Week%204%3A%20Linear%20Classification/Multi-class_Classification.ipynb)
+    - Week 5: Hands-On Lab: [K-Means](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Week%205%3A%20Clustering/ML0101EN-Clus-K-Means-Customer-Seg.ipynb)
 ### Skills for Data Science<br>
 The following skills are developed in this professional certificate program:
 - Import and clean data sets
