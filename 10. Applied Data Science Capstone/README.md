@@ -24,7 +24,7 @@ Course 10 of 12 in the IBM Data Science Professional Certificate
 - Data Mining
 # Course 10 Completion Certificate:
 **Additional Info:** Please [click here] to verify the certificate. <br>
-*Coming Soon...*
+![Course](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/caed6e62-cf3a-4aef-8472-203b67a78654)
 # Course 10 Digital Badge:
 Please [click here] to verify the IBM digital badge.<br>
 *Coming Soon...*
