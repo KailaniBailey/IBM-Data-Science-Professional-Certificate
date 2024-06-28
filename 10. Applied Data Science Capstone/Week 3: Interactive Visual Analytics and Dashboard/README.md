@@ -9,6 +9,6 @@
 ## Assignments
 - Interactive Visual Analytics and Dashboards
 - Hands-On Lab: [Interactive Visual Analytics and Dashboards with Folium Lab](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/10.%20Applied%20Data%20Science%20Capstone/Week%203%3A%20Interactive%20Visual%20Analytics%20and%20Dashboard/lab_jupyter_launch_site_location.ipynb)
-- Hands-On Lab: Build an Interactive Dashboard with Plotly Dash
+- Hands-On Lab: [Build an Interactive Dashboard with Plotly Dash](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/10.%20Applied%20Data%20Science%20Capstone/Week%203:%20Interactive%20Visual%20Analytics%20and%20Dashboard/spacex_app.py)
 - **Practice Quiz:** Check Points: Interactive Visual Analytics and Dashboard (100%)
 - **Graded Quiz:** Interactive Visual Analytics and Dashboard (100%)
