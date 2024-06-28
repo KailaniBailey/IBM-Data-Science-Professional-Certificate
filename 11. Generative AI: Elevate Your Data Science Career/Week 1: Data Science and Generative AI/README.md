@@ -22,7 +22,7 @@
 - Lesson 1: Generative AI in Data Science (100%)
 ## Generative AI for Data Preparation and Querying
 - Demo: Generative AI for Data Generation and Augmentation
-- Hands-On Lab: Generative AI for Data Generation and Augmentation
+- Hands-On Lab: [Generative AI for Data Generation and Augmentation](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/11.%20Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career/Week%201%3A%20Data%20Science%20and%20Generative%20AI/Hands-On-Lab-Generative-AI-for-Data-Generation-and-Augmentation.pdf)
 - Generative AI for Data Preparation and Data Querying
 - Demo: Generative AI for Data Preparation
 - Hands-On Lab: Generative AI for Data Preparation
