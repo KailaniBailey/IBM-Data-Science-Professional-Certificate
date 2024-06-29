@@ -14,7 +14,7 @@
 - Generative AI Tools for Model Development
 - Hands-On Lab: Generative AI for Model Development
 - Generative AI for Understanding Data and Model Development
-- **Graded Quiz:** Generative AI for Understanding Data and Model Building (90%)
+- **Graded Quiz:** Generative AI for Understanding Data and Model Building (75%)
 ## Generative AI Considerations for Data Professionals
 - Considerations While Using Generative AI in Industries
 - Challenges While Using Generative AI
