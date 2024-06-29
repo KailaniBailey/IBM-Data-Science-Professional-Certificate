@@ -25,4 +25,4 @@
 ## Module Summary and Quiz
 - Module 2 Summary: Use of Generative AI for Data Science
 - Module 2 Cheat Sheet: [Use of Generative AI for Data Science](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/11.%20Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career/Week%202%3A%20Use%20of%20Generative%20AI%20for%20Data%20Science/Cheat-Sheet-Use-of-Generative-AI-for-Data-Science.pdf)
-- Module 2: Use of Generative AI for Data Science
+- Module 2: Use of Generative AI for Data Science (80%)
