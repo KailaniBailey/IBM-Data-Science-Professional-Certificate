@@ -21,7 +21,7 @@
 - Reading: [Responsible Generative AI for Data Professionals](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/11.%20Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career/Week%202%3A%20Use%20of%20Generative%20AI%20for%20Data%20Science/Responsible-Generative-AI-for-Data-Professionals.pdf)
 - Case Study: [Considerations While Using Generative AI in Healthcare](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/11.%20Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career/Week%202%3A%20Use%20of%20Generative%20AI%20for%20Data%20Science/Case-Study-Considerations-While-Using-Generative-AI-in-Healthcare.pdf)
 - Hands-On Lab: Considerations for Data Professionals Using GenAI
-- Lesson 2: Generative AI Considerations for Data Professionals
+- **Practice Quiz:** Generative AI Considerations for Data Professionals (100%)
 ## Module Summary and Quiz
 - Module 2 Summary: Use of Generative AI for Data Science
 - Module 2 Cheat Sheet: Use of Generative AI for Data Science
