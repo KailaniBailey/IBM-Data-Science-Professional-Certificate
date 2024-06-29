@@ -5,3 +5,24 @@
 - List the industry-specific considerations of using Generative AI.
 - Discuss the three key challenges while using generative AI in data science.
 - Summarize the skills data scientists require to succeed in their field and how generative AI can help them hone these skills in today’s world.
+## Generative AI for Understanding Data and Model Building
+- Demo: Generative AI for Data Insights
+- Hands-On Lab: Generative AI for Data Insights
+- Demo: Generative AI for Data Visualization
+- Hands-On Lab: Generative AI for Data Visualization
+- [Optional] Hands-On Lab: Generative AI for Data Visualization
+- Generative AI Tools for Model Development
+- Hands-On Lab: Generative AI for Model Development
+- Generative AI for Understanding Data and Model Development
+- Lesson 1: Generative AI for Understanding Data and Model Building
+## Generative AI Considerations for Data Professionals
+- Considerations While Using Generative AI in Industries
+- Challenges While Using Generative AI
+- Reading: Responsible Generative AI for Data Professionals
+- Case Study: Considerations While Using Generative AI in Healthcare
+- Hands-On Lab: Considerations for Data Professionals Using GenAI
+- Lesson 2: Generative AI Considerations for Data Professionals
+## Module Summary and Quiz
+- Module 2 Summary: Use of Generative AI for Data Science
+- Module 2 Cheat Sheet: Use of Generative AI for Data Science
+- Module 2: Use of Generative AI for Data Science
