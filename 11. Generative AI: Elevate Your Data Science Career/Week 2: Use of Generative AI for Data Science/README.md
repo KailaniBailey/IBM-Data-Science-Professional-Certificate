@@ -10,7 +10,7 @@
 - Hands-On Lab: Generative AI for Data Insights
 - Demo: Generative AI for Data Visualization
 - Hands-On Lab: [Generative AI for Data Visualization](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/11.%20Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career/Week%202%3A%20Use%20of%20Generative%20AI%20for%20Data%20Science/Hands-On-Lab-Generative-AI-for-Data-Visualization.pdf)
-- [Optional] Hands-On Lab: Generative AI for Data Visualization
+- [Optional] Hands-On Lab: [Generative AI for Data Visualization](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/11.%20Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career/Week%202%3A%20Use%20of%20Generative%20AI%20for%20Data%20Science/Text-to-chart%20in%20Jupyter%20notebook.ipynb)
 - Generative AI Tools for Model Development
 - Hands-On Lab: Generative AI for Model Development
 - Generative AI for Understanding Data and Model Development
