@@ -13,7 +13,7 @@
 - SME Video: Building Your Network
 - Assessing Job Listings
 - SME Video: A Closer Look at Job Listings
-- Applying for a Job
+- [Applying for a Job](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/12.%20Data%20Scientist%20Career%20Guide%20and%20Interview%20Preparation/Week%202%3A%20Applying%20and%20Preparing%20to%20Interview/Applying-for-a-Job.pdf)
 - Interview Rehearsal
 - SME Video: Job Interview Preparation
 - Hands-On Lab: Prepare for an Interview
