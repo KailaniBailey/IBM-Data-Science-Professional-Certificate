@@ -28,7 +28,7 @@
 - Hands-On Lab: Generative AI for Data Preparation
 - Demo: Generative AI for Querying Databases
 - Hands-On Lab: Generative AI for Querying Databases
-- Lesson 2: Generative AI for Data Preparation and Querying (80%)
+- **Graded Quiz:** Generative AI for Data Preparation and Querying (80%)
 ## Module Summary and Quiz
 - Module 1 Summary: Data Science and Generative AI
 - Module 1 Cheat Sheet: [Data Science and Generative AI](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/11.%20Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career/Week%201%3A%20Data%20Science%20and%20Generative%20AI/Cheat-Sheet-Data-Science-and-Generative-AI.pdf)
