@@ -23,7 +23,7 @@
 - [Draft Your Basic Cover Letter](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/12.%20Data%20Scientist%20Career%20Guide%20and%20Interview%20Preparation/Week%201%3A%20Building%20a%20Foundation/Draft-Your-Basic-Cover-Letter.pdf)
 - Hands-On Lab: [Create Your Cover Letter](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/12.%20Data%20Scientist%20Career%20Guide%20and%20Interview%20Preparation/Week%201%3A%20Building%20a%20Foundation/Hands-On-Lab-Create-Your-Cover-Letter.pdf)
 - SME Video: Standing Out from the Crowd
-- Drafting Other Materials
+- [Drafting Other Materials](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/12.%20Data%20Scientist%20Career%20Guide%20and%20Interview%20Preparation/Week%201%3A%20Building%20a%20Foundation/Drafting-Other-Materials.pdf)
 - Drafting an Elevator Pitch
 - Building a Foundation
 - **Graded Quiz**
