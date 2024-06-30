@@ -26,5 +26,5 @@
 - [After the Interview](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/12.%20Data%20Scientist%20Career%20Guide%20and%20Interview%20Preparation/Week%203%3A%20Interviewing/After-the-Interview.pdf)
 - SME Video: Negotiations
 - [Checklist](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/12.%20Data%20Scientist%20Career%20Guide%20and%20Interview%20Preparation/Week%203:%20Interviewing/Checklist/README.md)
-- **Practice Quiz:** Interviewing
+- **Practice Quiz:** Interviewing (100%)
 - **Graded Quiz**
