@@ -19,7 +19,7 @@
 - Reading: [Guide to Choosing a Generative AI Model Type](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/11.%20Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career/Week%201%3A%20Data%20Science%20and%20Generative%20AI/Guide-to-Choosing-Generative-AI-Model-Type.pdf)
 - Case Study: [Successful Implementation of Generative AI](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/11.%20Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career/Week%201%3A%20Data%20Science%20and%20Generative%20AI/Case-Study-Successful-Implementation-of-Generative-AI.pdf)
 - Hands-On Lab: [Explore a Simple Generative Tool](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/11.%20Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career/Week%201%3A%20Data%20Science%20and%20Generative%20AI/Hands-On-Lab-Explore-a-Simple-Generative-Tool.pdf)
-- Lesson 1: Generative AI in Data Science (100%)
+- **Graded Quiz:** Generative AI in Data Science (80%)
 ## Generative AI for Data Preparation and Querying
 - Demo: Generative AI for Data Generation and Augmentation
 - Hands-On Lab: [Generative AI for Data Generation and Augmentation](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/11.%20Generative%20AI%3A%20Elevate%20Your%20Data%20Science%20Career/Week%201%3A%20Data%20Science%20and%20Generative%20AI/Hands-On-Lab-Generative-AI-for-Data-Generation-and-Augmentation.pdf)
