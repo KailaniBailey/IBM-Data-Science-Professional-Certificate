@@ -1,4 +1,5 @@
-# Action Items 
+# Checklist
+## Action Items
 1. Consider your professional options and decide what type of role to pursue
 2. Create your resume
 3. Gather and publish your portfolio to GitHub
