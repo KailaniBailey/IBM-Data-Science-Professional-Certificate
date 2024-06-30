@@ -19,7 +19,7 @@
 - Best Practices: Interview Preparation
 - Coding Challenges in Data Science
 - SME Video: Case Study Insights
-- Second-Round Screen
+- [Second-Round Screen](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/blob/main/12.%20Data%20Scientist%20Career%20Guide%20and%20Interview%20Preparation/Week%203%3A%20Interviewing/Second-round-Screen.pdf)
 - SME Video: Tech Screen Expectations
 - Final Interviewing
 - SME Video: Interviewing
