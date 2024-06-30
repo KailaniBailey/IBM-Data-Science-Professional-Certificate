@@ -27,5 +27,6 @@ Course 12 of 12 in the IBM Data Science Professional Certificate
 ![Course](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/dd633b0d-c488-4cfa-bdcd-829a6a046d95)
 
 # Course 12 Digital Badge:
-Please [click here] to verify the IBM digital badge. <br>
-*Coming Soon...*
+Please [click here](https://www.credly.com/badges/b8a3740b-59fb-49ac-a3c6-1e456554fa53/public_url) to verify the IBM digital badge. <br>
+![data-scientist-career-guide-and-interview-preparati](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/805f441f-7878-4a6e-a2d8-62e93c5f423e)
+
