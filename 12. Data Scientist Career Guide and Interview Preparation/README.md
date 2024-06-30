@@ -23,7 +23,7 @@ Course 12 of 12 in the IBM Data Science Professional Certificate
 - Job Preparation
 - Resume Building
 # Course 12 Completion Certificate:
-**Additional Info:** Please [click here] to verify the certificate. <br>
+**Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/D8U2MTUWNRZP) to verify the certificate. <br>
 *Coming Soon...*
 # Course 12 Digital Badge:
 Please [click here] to verify the IBM digital badge. <br>
