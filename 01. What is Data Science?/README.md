@@ -28,6 +28,8 @@ Course 1 of 12 in the IBM Data Science Professional Certificate
 # Course 1 Completion Certificate:
 **Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/KVTBB24ES8NG) to verify the IBM certificate.<br>
 ![what is data science](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/5e1f3e15-dbd5-4ff4-9049-2cb3a158d8d8)
-# Course 1 Digital Badge:
+# Course 1 Credly Certificate:
+![What is Data Science](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/4cb4974d-3f2e-4714-a7f0-381bf28837dc)
+# Digital Badge:
 Please [click here](https://www.credly.com/badges/b2a0e3dc-521f-4453-9047-67b03402e6c7/public_url) to verify the IBM digital badge.<br>
 ![data-science-orientation](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/2e14860f-c8bd-4c92-94c4-7d42651e97b4)
