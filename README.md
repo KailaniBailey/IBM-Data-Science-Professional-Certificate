@@ -133,4 +133,4 @@ The following Python libraries were used throughout the certification:
 - Folium
 - scikit-learn<br>
 # My Employer-Recognized Certificate from IBM:
-*Coming Soon...*
+![IBM Cert](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/94dc55f8-e36c-4c24-a5cf-db4bc3455975)
