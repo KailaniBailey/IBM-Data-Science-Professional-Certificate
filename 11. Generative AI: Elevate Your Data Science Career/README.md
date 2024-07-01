@@ -31,5 +31,6 @@ Course 11 of 12 in the IBM Data Science Professional Certificate
 **Additional Info:** Please [click here] to verify the certificate. <br>
 *Coming Soon...*
 # Course 11 Digital Badge:
-Please [click here] to verify the IBM digital badge. <br>
-*Coming Soon...*
+Please [click here](https://www.credly.com/badges/92fa424d-9012-4089-8a1c-766e6b195921/public_url) to verify the IBM digital badge. <br>
+![generative-ai-essentials-for-data-science](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/38791db3-a3b5-4711-8d8f-3b5916415714)
+
