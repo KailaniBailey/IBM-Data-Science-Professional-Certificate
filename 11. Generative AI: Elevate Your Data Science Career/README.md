@@ -28,8 +28,8 @@ Course 11 of 12 in the IBM Data Science Professional Certificate
 - Data Analysis
 - Data Science
 # Course 11 Completion Certificate:
-**Additional Info:** Please [click here] to verify the certificate. <br>
-*Coming Soon...*
+**Additional Info:** Please [click here](https://www.coursera.org/account/accomplishments/verify/392VV3EXEM4R) to verify the certificate. <br>
+![Course](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/0572de94-de40-473d-a0ca-204c51ee829a)
 # Course 11 Digital Badge:
 Please [click here](https://www.credly.com/badges/92fa424d-9012-4089-8a1c-766e6b195921/public_url) to verify the IBM digital badge. <br>
 ![generative-ai-essentials-for-data-science](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/assets/158431578/3871c633-9145-476a-9ca4-1283f30f0c8f)
